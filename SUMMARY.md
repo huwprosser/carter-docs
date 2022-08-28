@@ -12,6 +12,7 @@
   * [API Response](carter-api/api-response.md)
   * [Downvote Agent Responses](carter-api/downvote-agent-responses.md)
   * [Voice API](carter-api/voice-api.md)
+  * [Troubleshooting](carter-api/troubleshooting.md)
 * [Carter Startup Program](carter-startup-program.md)
 * [Examples](examples/README.md)
   * [Carter Voice Assistant](examples/carter-voice-assistant.md)
