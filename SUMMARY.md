@@ -3,7 +3,7 @@
 * [Getting Started](README.md)
   * [Pricing & Use (Beta)](getting-started/pricing-and-use-beta.md)
   * [Community & Content](getting-started/community-and-content.md)
-* [Quick Start Guide](quick-start-guide.md)
+* [🚀 Quick Start Guide](quick-start-guide.md)
 * [Dashboard](dashboard/README.md)
   * [Home](dashboard/home.md)
   * [Agents](dashboard/agents/README.md)

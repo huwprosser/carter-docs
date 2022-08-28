@@ -1,8 +1,8 @@
 ---
-description: Full walkthrough from Sign Up to having a trained and deployed Carter Agent.
+description: Get talking to your agent ASAP.
 ---
 
-# Quick Start Guide
+# 🚀 Quick Start Guide
 
 Let's just dive right in. To get started with Carter in your project you need&#x20;
 
