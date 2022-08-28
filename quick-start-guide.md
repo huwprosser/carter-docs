@@ -53,7 +53,11 @@ print(response.text)
 
 **Step 3**&#x20;
 
-You probably want to get your head around the JSON response right? See[ here](carter-api/api-response.md) for a full breakdown.
+You probably want to get your head around the JSON response right? See[ here](carter-api/api-response.md) for a full breakdown or skip to:
+
+* [Downvoting agent responses (help improve Carter)](carter-api/downvote-agent-responses.md)
+* [Using you Carter Agent's Voice](carter-api/voice-api.md)
+* [Get started with these example projects! (Unity, Python and more!)](examples/)
 
 \
 Show us what you're building via our community on Discord!
