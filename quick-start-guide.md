@@ -51,3 +51,9 @@ print(response.text)
 
 ```
 
+**Step 3**&#x20;
+
+You probably want to get your head around the JSON response right? See[ here](carter-api/api-response.md) for a full breakdown.
+
+\
+Show us what you're building via our community on Discord!
