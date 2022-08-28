@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
-  * [Pricing (Beta)](getting-started/pricing-beta.md)
+  * [Pricing & Use (Beta)](getting-started/pricing-and-use-beta.md)
   * [Community & Content](getting-started/community-and-content.md)
 * [Quick Start Guide](quick-start-guide.md)
 * [Dashboard](dashboard/README.md)

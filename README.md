@@ -17,7 +17,7 @@ Carter has an unlimited number of potential use cases which will only grow over 
 ### Sections:
 
 * [<mark style="color:purple;">Using the Carter API</mark>](broken-reference) - Install Carter into your Python, Javascript or C# or project
-* [<mark style="color:purple;">Pricing</mark>](getting-started/pricing-beta.md) - How does Carter charge?
+* [<mark style="color:purple;">Pricing</mark>](getting-started/pricing-and-use-beta.md) - How does Carter charge?
 * [<mark style="color:purple;">Community</mark> <mark style="color:purple;">&</mark> <mark style="color:purple;">Content</mark> ](getting-started/community-and-content.md)- Join the Carter Crew 😎
 
 
