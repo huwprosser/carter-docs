@@ -6,16 +6,18 @@ description: Full walkthrough from Sign Up to having a trained and deployed Cart
 
 Let's just dive right in. To get started with Carter in your project you need&#x20;
 
-**Step 1**
+### **Step 1**
 
 Sign up to Carter and create a new agent. You can learn more about this in the [Dashboard Docs](dashboard/).
 
+### **Step 2**
 
+Now you want to chat with your agent right? This is pretty simple as Carter agents live behind a standard REST API endpoint.&#x20;
 
-**Step 2**
+<details>
 
-Now you want to chat with your agent right? This is pretty simple as Carter agents live behind a standard REST API endpoint. \
-\
+<summary>cURL</summary>
+
 You could send a simple cURL request like this:
 
 ```
@@ -28,7 +30,13 @@ curl --location --request POST 'https://api.carterapi.com/v0/chat' \
 }'
 ```
 
-Or if cURL isn't your thing how about Python?
+
+
+</details>
+
+<details>
+
+<summary>Python Example</summary>
 
 ```python
 import requests
@@ -51,7 +59,11 @@ print(response.text)
 
 ```
 
-**Step 3**&#x20;
+
+
+</details>
+
+### **Step 3**
 
 You probably want to get your head around the JSON response right? See[ here](carter-api/api-response.md) for a full breakdown or skip to:
 
