@@ -8,6 +8,7 @@
   * [Home](dashboard/home.md)
   * [Agents](dashboard/agents/README.md)
     * [Custom Triggers](dashboard/agents/custom-triggers.md)
+    * [Quick Fix](dashboard/agents/quick-fix.md)
 * [Carter API](carter-api/README.md)
   * [API Response](carter-api/api-response.md)
   * [Downvote Agent Responses](carter-api/downvote-agent-responses.md)
