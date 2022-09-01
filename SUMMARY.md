@@ -7,6 +7,7 @@
 * [Quick Start](quick-start-guide.md)
 * [Examples](examples/README.md)
   * [Carter Voice Assistant](examples/carter-voice-assistant.md)
+* [Project Showcase](meet-carter/project-showcase.md)
 
 ## 🙂 Agents
 
