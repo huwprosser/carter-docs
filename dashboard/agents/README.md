@@ -12,7 +12,7 @@ Think of an agent like an actor you've just hired to play a role. Describe the c
 
 Sign in to your Carter account, and click the '+ New Agent' button. You'll then be greeted with some simple questions asking you about use-case, and personality type.&#x20;
 
-<figure><img src="../.gitbook/assets/screely-1662045907425.png" alt=""><figcaption><p>The 'create agent' popup in the Carter Dashboard.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screely-1662045907425.png" alt=""><figcaption><p>The 'create agent' popup in the Carter Dashboard.</p></figcaption></figure>
 
 Now that you've created an agent, let's explore the agent builder.
 
@@ -37,7 +37,7 @@ Configure your Agent's personality, backstory and knowledge base. This is the se
 
 Guide your Agent's conversational abilities and direction to fit your project. We can control the questions that Agent's ask users, the freedom Agents have to respond openly, among other controls:
 
-* **Allow Open Conversation:** When toggled on, the agent will be able to talk openly with users. Turning Open Conversation off will severely restrict the conversational ability of Agents to strictly the Custom Triggers you set for the Agent (see [<mark style="color:purple;">Agent Conversation</mark>](agents.md#agent-conversation)). We recommend keeping Open Conversation ON in most use cases.
+* **Allow Open Conversation:** When toggled on, the agent will be able to talk openly with users. Turning Open Conversation off will severely restrict the conversational ability of Agents to strictly the Custom Triggers you set for the Agent (see [<mark style="color:purple;">Agent Conversation</mark>](./#agent-conversation)). We recommend keeping Open Conversation ON in most use cases.
 * **Question Queue:** Preload your Agent with specific questions you would like them to ask in conversation.
 * **Allow AI Generated Questions:** When toggled on, your Agent will be able to generate and ask questions freely to users. Turning this off means the Agent will only ask pre-written questions from the Question Queue
 * **Custom Triggers:** _For a **full video walkthrough** on Custom Triggers, click_ [_<mark style="color:purple;">here</mark>_](https://www.loom.com/share/6982d389557248d7b7a7a240dcaf8ffa)_._\

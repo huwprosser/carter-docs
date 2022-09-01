@@ -2,7 +2,7 @@
 description: Pricing breakdown for our developers
 ---
 
-# Pricing & Use (Beta)
+# Pricing & Use
 
 _Disclaimer: The following pricing is only for the Beta stage of Carter. Pricing may change for the official product launch._
 

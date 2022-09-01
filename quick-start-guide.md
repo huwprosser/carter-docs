@@ -2,7 +2,7 @@
 description: Get talking to your agent ASAP.
 ---
 
-# 🚀 Quick Start Guide
+# Quick Start
 
 Let's just dive right in. To get started with Carter in your project you need
 
@@ -60,10 +60,10 @@ print(response.text)
 
 ### **Step 3**
 
-You probably want to get your head around the JSON response right? See[ here](../api/api-response.md) for a full breakdown or skip to:
+You probably want to get your head around the JSON response right? See[ here](carter-api/api-response.md) for a full breakdown or skip to:
 
-* [Downvoting agent responses (help improve Carter)](../api/downvote-agent-responses.md)
-* [Using you Carter Agent's Voice](../api/voice-api.md)
+* [Downvoting agent responses (help improve Carter)](carter-api/downvote-agent-responses.md)
+* [Using you Carter Agent's Voice](carter-api/voice-api.md)
 * [Get started with these example projects! (Unity, Python and more!)](examples/)
 
 \

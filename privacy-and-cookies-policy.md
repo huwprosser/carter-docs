@@ -29,4 +29,4 @@ Cookies are tiny pieces of text that are saved to your browser when you consent.
 \
 **Read the full version:**&#x20;
 
-{% file src=".gitbook/assets/Carter Privacy and Cookies Policy.pdf" %}
+{% file src=".gitbook/assets/CarterPrivacy & Cookies Policy.docx.pdf" %}
