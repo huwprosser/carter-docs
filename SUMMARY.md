@@ -1,22 +1,29 @@
 # Table of contents
 
-* [Getting Started](README.md)
-  * [Pricing & Use (Beta)](getting-started/pricing-and-use-beta.md)
-  * [Community & Content](getting-started/community-and-content.md)
-* [🚀 Quick Start Guide](quick-start-guide.md)
-* [Dashboard](dashboard/README.md)
-  * [Home](dashboard/home.md)
-  * [Agents](dashboard/agents/README.md)
-    * [Custom Triggers](dashboard/agents/custom-triggers.md)
-* [Carter API](carter-api/README.md)
-  * [API Response](carter-api/api-response.md)
-  * [Downvote Agent Responses](carter-api/downvote-agent-responses.md)
-  * [Voice API](carter-api/voice-api.md)
-  * [Troubleshooting](carter-api/troubleshooting.md)
-* [Carter Startup Program](carter-startup-program.md)
-* [Examples](examples/README.md)
-  * [Carter Voice Assistant](examples/carter-voice-assistant.md)
-* [Troubleshooting](troubleshooting.md)
-* [Changelog](changelog.md)
-* [Terms & Conditions](terms-and-conditions.md)
-* [Privacy & Cookies Policy](privacy-and-cookies-policy.md)
+* [Carter](README.md)
+
+## Meet Carter
+
+* [🚀 Quick Start Guide](meet-carter/quick-start-guide.md)
+* [Examples](meet-carter/examples/README.md)
+  * [Carter Voice Assistant](meet-carter/examples/carter-voice-assistant.md)
+
+## Agents
+
+* [Basics](agents/agents.md)
+* [Custom Triggers](agents/custom-triggers.md)
+
+## API
+
+* [API Response](api/api-response.md)
+* [Downvote Agent Responses](api/downvote-agent-responses.md)
+* [Voice API](api/voice-api.md)
+
+## More
+
+* [Pricing & Use](more/pricing-and-use-beta.md)
+* [Changelog](more/changelog.md)
+* [Troubleshooting](more/troubleshooting.md)
+* [Carter Startup Program](more/carter-startup-program.md)
+* [Terms & Conditions](more/terms-and-conditions.md)
+* [Privacy & Cookies Policy](more/privacy-and-cookies-policy.md)

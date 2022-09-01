@@ -8,7 +8,7 @@ description: Additions and updates to the Carter platform and API.
 
 0.0.7
 
-![](<.gitbook/assets/meet lari. (1).png>)
+![](<../.gitbook/assets/meet lari. (1).png>)
 
 Two words - Screen. Space. We've introduced a new dashboard design, allowing for more efficient use of those ever-more-important pixels. \
 \
@@ -28,9 +28,9 @@ Based on our awesome Discord Community's feedback, we're pleased to announce ano
 
 **Trigger-level sensitivity added.** Set the how confident you want your agent to be, for a **specific** trigger, before triggering a custom trigger. This can be found in the trigger editor.
 
-**Trigger Metadata** attach application data to each custom trigger, reducing demand for client-side logic and load on your database. See how to access this from your agent's response [here](carter-api/api-response.md).
+**Trigger Metadata** attach application data to each custom trigger, reducing demand for client-side logic and load on your database. See how to access this from your agent's response [here](../api/api-response.md).
 
-![](<.gitbook/assets/Screenshot 2022-08-17 at 13.11.17.png>)
+![](<../.gitbook/assets/Screenshot 2022-08-17 at 13.11.17.png>)
 
 
 

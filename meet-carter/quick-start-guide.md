@@ -4,15 +4,15 @@ description: Get talking to your agent ASAP.
 
 # 🚀 Quick Start Guide
 
-Let's just dive right in. To get started with Carter in your project you need&#x20;
+Let's just dive right in. To get started with Carter in your project you need
 
 ### **Step 1**
 
-Sign up to Carter and create a new agent. You can learn more about this in the [Dashboard Docs](dashboard/).
+Sign up to Carter and create a new agent. You can learn more about this in the [Dashboard Docs](broken-reference).
 
 ### **Step 2**
 
-Now you want to chat with your agent right? This is pretty simple as Carter agents live behind a standard REST API endpoint.&#x20;
+Now you want to chat with your agent right? This is pretty simple as Carter agents live behind a standard REST API endpoint.
 
 <details>
 
@@ -29,8 +29,6 @@ curl --location --request POST 'https://api.carterapi.com/v0/chat' \
     "uuid": "A UNIQUE USER ID"
 }'
 ```
-
-
 
 </details>
 
@@ -56,19 +54,16 @@ headers = {
 response = requests.request("POST", url, headers=headers, data=payload)
 
 print(response.text)
-
 ```
-
-
 
 </details>
 
 ### **Step 3**
 
-You probably want to get your head around the JSON response right? See[ here](carter-api/api-response.md) for a full breakdown or skip to:
+You probably want to get your head around the JSON response right? See[ here](../api/api-response.md) for a full breakdown or skip to:
 
-* [Downvoting agent responses (help improve Carter)](carter-api/downvote-agent-responses.md)
-* [Using you Carter Agent's Voice](carter-api/voice-api.md)
+* [Downvoting agent responses (help improve Carter)](../api/downvote-agent-responses.md)
+* [Using you Carter Agent's Voice](../api/voice-api.md)
 * [Get started with these example projects! (Unity, Python and more!)](examples/)
 
 \
