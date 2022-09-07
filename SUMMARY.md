@@ -16,9 +16,9 @@
 
 ## 👩💻 API
 
-* [API Response](carter-api/api-response.md)
-* [Downvote Agent Responses](carter-api/downvote-agent-responses.md)
-* [Voice API](carter-api/voice-api.md)
+* [Chat](carter-api/api-response.md)
+* [Voice](carter-api/voice-api.md)
+* [Downvote](carter-api/downvote-agent-responses.md)
 
 ## More
 
