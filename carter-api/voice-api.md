@@ -6,11 +6,25 @@ description: Quick guide on using the Voice API
 
 Text chats are cool but they’re not quite the experience we’re looking for, that’s why we’re working on as many audio tools as possible.
 
-Voice Recognition is coming soon. But for now let’s focus on Text-to-speech (making your agent speak).
+**Voice Recognition Docs are coming soon!**
 
-In your agent response you will find **output.audio** - a URL that will stream back an mp3 of your agent saying anything you want.
+### The Basics
 
-### Unity&#x20;
+You can use your agent's voice to say anything using the following URL:
+
+```
+https://api.carterapi.com/v0/speak/YOURAPIKEY/TEXT-TO-SPEAK
+```
+
+This service is still in early beta and may change regularly.&#x20;
+
+### Integration
+
+We pre-fill the above API endpoint for you in each API response from your agent. You will find **output.audio** - a pre-filled URL that, when played, will stream back an mp3 of your agent saying it's response **output.text** response. In the following examples we use this URL with the assumption that you're using the [Chat API ](api-response.md)end point, this is not a requirement.
+
+<details>
+
+<summary>Unity (C#)</summary>
 
 Pass your agent’s response **output.audio** to this method.
 
@@ -36,7 +50,13 @@ IEnumerator PlayAudio(string url)
     }
 ```
 
-### **JavaScript**
+
+
+</details>
+
+<details>
+
+<summary>JavaScript</summary>
 
 In Javascript you can use this really easily with the Audio Object. Like this:
 
@@ -46,7 +66,13 @@ var myAudio = new Audio(agent_response.output.audio);
 myAudio.play()
 ```
 
-### **Python**
+
+
+</details>
+
+<details>
+
+<summary>Python</summary>
 
 We’re working on creating an easier way to do this, but for now:
 
@@ -63,6 +89,10 @@ playsound('temp.mp3')
 # remove temp file
 os.remove('temp.mp3')
 ```
+
+
+
+</details>
 
 
 
