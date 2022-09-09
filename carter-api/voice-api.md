@@ -2,11 +2,9 @@
 description: Quick guide on using the Voice API
 ---
 
-# Voice API
+# Voice
 
 Text chats are cool but they’re not quite the experience we’re looking for, that’s why we’re working on as many audio tools as possible.
-
-**Voice Recognition Docs are coming soon!**
 
 ### The Basics
 

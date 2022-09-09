@@ -18,6 +18,7 @@
 
 * [Chat](carter-api/api-response.md)
 * [Voice](carter-api/voice-api.md)
+* [Audio Chat (NEW!)](api/audio-chat-new.md)
 * [Downvote](carter-api/downvote-agent-responses.md)
 
 ## More
