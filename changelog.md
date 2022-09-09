@@ -4,6 +4,14 @@ description: Additions and updates to the Carter platform and API.
 
 # Changelog
 
+### September 10th, 2022
+
+0.0.10
+
+After a few minor bug fixes spanning 0.0.8 and 0.0.9 we're pleased to release another incremental improvement. This update marks the rollout of some more proactive changes to the Carter API, combing the learnings from our private Beta so far and the research we've been conducting. \
+\
+**Audio Endpoint \[Experimental]**: Allowing developers to send audio files to the API and get an agent response back. We handle speech recognition and then pass it to your chosen agent for standard processing. Because of this, the response looks the same as the[ /chat endpoint response.](carter-api/api-response.md)
+
 ### **August 20th, 2022**
 
 0.0.7
