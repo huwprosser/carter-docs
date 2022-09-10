@@ -6,6 +6,20 @@ description: Additions and updates to the Carter platform and API.
 
 ### September 10th, 2022
 
+0.0.11
+
+<figure><img src=".gitbook/assets/Untitled design (1).gif" alt=""><figcaption><p>The new custom trigger editor</p></figcaption></figure>
+
+**A new custom trigger editor**, making full use of a new tab layout, popup window and responsive card design for each custom trigger.&#x20;
+
+**Custom Trigger editor bug fixed**. Sometimes editing a custom trigger would edit a different trigger, leading to a confusing experience after creating or deleting items. Now fixed.
+
+**Dashboard chat scroll issue fixed**. Every time you sent a message the window would scroll to to the bottom, this has now been fixed.
+
+**Custom Trigger 'Save & Train' moved.** Save & Train now happens within each trigger popup rather than a confusing button at the top.&#x20;
+
+### September 9th, 2022
+
 0.0.10
 
 After a few minor bug fixes spanning 0.0.8 and 0.0.9 we're pleased to release another incremental improvement. This update marks the rollout of some more proactive changes to the Carter API, combing the learnings from our private Beta so far and the research we've been conducting. \
