@@ -12,7 +12,7 @@ We do not charge individuals who say (or write) less than 5000 words to Carter A
 
 * Ensure it is **clear** to all users that they are speaking to an AI.
 * Not abuse the API including the use of automated stress testing.
-* Follow our terms of use.
+* Follow our [<mark style="color:purple;">terms of use</mark>](../terms-and-conditions.md).
 
 ### Cost efficient for public games.
 
