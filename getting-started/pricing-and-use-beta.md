@@ -16,7 +16,7 @@ We do not charge individuals who say (or write) less than 5000 words to Carter A
 
 ### Cost efficient for public games.
 
-Should your players wish to speak more than 5000 words to your Carter Agents per month, we now offer a bundle of **100k words for just £12.**
+Should your players wish to speak more than 5000 words to your Carter Agents per month in total, we now offer a bundle of **100k words for just £12.**
 
 ### Still not enough?
 
