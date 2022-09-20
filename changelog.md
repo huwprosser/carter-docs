@@ -4,6 +4,20 @@ description: Additions and updates to the Carter platform and API.
 
 # Changelog
 
+### September 20th, 2022
+
+0.0.12
+
+What a week! Due to continued high usage and demand for faster agent response times, we're pleased to announce a few really meaningful changes.
+
+**Speed** - We rebuilt our conversational engine with speed in mind this week. We've redcued response times by prioritising conversation over analysis, bringing our API responses for custom triggers down by a lot. Open conversation is still in "slow mode" while we're in early access.
+
+**Entities** - Now only returned if "Detect entities" is enabled for a custom trigger. Date, Time & Number detection has been introduced **\[experimental]**.
+
+**Sentiment Analysis** - Now supporting agent output and entire conversation analysis allowing you to gauge how well a conversation is going and what mood the agent is in.
+
+**Account & Usage** - We're now launching a new section in the Carter Dashboard, aking it easy to track your API usage and purchase additional bundles of words should your project need it. _Each account is currently allowed 5000 input words per month for free._
+
 ### September 10th, 2022
 
 0.0.11
