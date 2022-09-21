@@ -1,5 +1,5 @@
 ---
-description: Sounds awesome....what is it?
+description: Steer the conversation.
 ---
 
 # Custom Triggers
@@ -19,4 +19,5 @@ To get started, simply go to the 'Custom Triggers' tab on your agent's page and 
 Once you've created your custom trigger, you will be able to edit it by selecting the 'down arrow' from the custom triggers table. Here you will see all of the above as well as two new items.
 
 * **Threshold** - This represents, as a percentage, how confident you want your agent to be before activating the custom trigger. For example, 99% would almost never be triggered unless someone says a phrase that exactly matches one of your example phrases. A threshold of 0% would lead the agent to activate the custom trigger in most cases, leading to a bad user experience. We recommend starting at 50% and slightly moving either up or down to get the best performance.
+* **Detect Entities** - With our entity recognition your agent can detect Names, Places, Dates, Times and Numbers for use in your game. This feature is not enabled by default.
 * **Metadata** - A new addition to the Carter service. Metadata allows you to return custom data in the JSON format. This could be a script your project needs to run, how many coins to deduct from a player if they say a certain thing, or anything your application needs!

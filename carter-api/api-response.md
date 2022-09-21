@@ -2,7 +2,7 @@
 description: Let's take a look at the API response
 ---
 
-# API Response
+# Chat
 
 ### Diving into your agent’s responses
 
@@ -10,24 +10,42 @@ Every time you send a message to your agent, you get a reply. This contains a la
 
 ```
 r = {
-    'input': 'Open the pod bay doors',
+    'input': 'Hello Carter agent!',
     'triggers': [
-        {'type': 'open-doors', 'score': 0.94}
+        {
+            'type': 'greeting', 
+            'score': 0.94, 
+            'entities': [
+                {
+                    confidence: 0.9,
+                    label:"location",
+                    word:"london"
+                }
+            ]
+        }
     ],
     'question': False,
     'output': {
-        'text': "I'm afraid I can't do that John",
+        'text': "Hey human player!",
         'supplier': 'tr-pc',
-        'voice': '<https://api.carterapi.com/v0/speak/GZAnnd57N5GZNouS9hKrZf4Z9Ep7dSBu/i> am scared'
+        'voice': 'https://api.carterapi.com/v0/speak/GZAnnd57N5GZNouS9hKrZf4Z9Ep7dSBu/Hey Human Player!'
     },
     'sentiment': {
         'input': { 
+            'label': 'POS',
+            'confidence': 0.9
+        },
+        'output': { 
+            'label': 'NEG',
+            'confidence': 0.8
+        },
+        'conversation': { 
             'label': 'NEU',
-            'confidence': 0.966752290725708
-        }
+            'confidence': 0.6
+        },
     },
-    'time_taken': 2.031390905380249,
-    'credits_used': 5,
+    'time_taken': 2.023,
+    'credits_used': 3,
     'tid': '165874259062c56d9d85f9033thya555c84'
 }
 ```
@@ -36,7 +54,7 @@ so what does this mean? Let's break it down:
 
 **input:** The text given to the agent from the user.&#x20;
 
-**triggers:** A list of custom triggers that have met your minimum confidence threshold. These can be used to trigger in-game actions, smart assistant skills - like playing music, or to finally open those pod bay doors.&#x20;
+**triggers:** A list of custom triggers that have met your minimum confidence threshold. These can be used to give canned responses, trigger in-game actions and detect names, places etc.
 
 **question:** If the user asked a question or not. Useful if you’re trying to do any post processing or want to log it as metadata in your own database!&#x20;
 
