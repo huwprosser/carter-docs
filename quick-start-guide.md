@@ -8,7 +8,7 @@ Let's just dive right in. To get started with Carter in your project you need
 
 ### **Step 1**
 
-Sign up to Carter and create a new agent. You can learn more about this in the [Dashboard Docs](broken-reference).
+Sign up to Carter and create a new agent. You can learn more about this in the [Dashboard Docs](dashboard/agents/).
 
 ### **Step 2**
 
