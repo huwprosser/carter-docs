@@ -28,6 +28,7 @@ WWWForm form = new WWWForm();
 form.AddField("aquery", "YOUR MESSAGE TO CARTER!);
 form.AddField("api_key", "YOUR-API-KEY);
 form.AddField("uuid", "USER-ID");
+form.AddField("scene", "level-1"); //optional!
 
 UnityWebRequest www = UnityWebRequest.Post("https://api.carterapi.com/v0/chat", form);
 yield return www.SendWebRequest();
@@ -58,7 +59,8 @@ url = "https://api.carterapi.com/v0/chat"
 payload = json.dumps({
   "api_key": "MY API KEY",
   "query": "MY MESSAGE TO CARTER",
-  "uuid": "A UNIQUE USER ID"
+  "uuid": "A UNIQUE USER ID",
+  "scene": "level-1", # optional!
 })
 headers = {
   'Content-Type': 'application/json'
@@ -84,6 +86,7 @@ curl --location --request POST 'https://api.carterapi.com/v0/chat' \
     "api_key": "MY API KEY",
     "query": "MY MESSAGE TO CARTER",
     "uuid": "A UNIQUE USER ID"
+    "scene": "level-1"
 }'
 ```
 
