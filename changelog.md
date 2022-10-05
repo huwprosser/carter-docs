@@ -4,6 +4,30 @@ description: Additions and updates to the Carter platform and API.
 
 # Changelog
 
+### October 5th, 2022
+
+0.0.14
+
+Introducing... pre-made triggers!
+
+<figure><img src=".gitbook/assets/screely-1664982232803.png" alt=""><figcaption><p>The pre-made trigger library</p></figcaption></figure>
+
+Can't be bothered to make your own custom triggers? Now you can quickly import one of our pre-made triggers to save time and workload. **This library will continue to grow as Carter evolves and we encourage requests over on our Discord Server,** adding common use cases such as commands, common phrases and more. Once you've imported a pre-made trigger you can edit it just like a normal custom trigger. Pretty neat eh?
+
+Also in this release we've:
+
+* Consolidated the agent builder tabs.
+* Replaced trigger 'threshold' with 'sensitivity'.
+* Improved loading speed.
+* Improved the integrate tab.
+* Other minor improvements.
+
+### September 27th, 2022
+
+0.0.13&#x20;
+
+* Minor bug fixes and improvements.
+
 ### September 20th, 2022
 
 0.0.12
