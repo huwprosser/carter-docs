@@ -4,6 +4,20 @@ description: Additions and updates to the Carter platform and API.
 
 # Changelog
 
+### October 22nd, 2022
+
+0.0.15
+
+**We've used A.I to help train A.I.....yes it sounds ridiculous.**&#x20;
+
+<figure><img src=".gitbook/assets/CONVERSATIONAL AI.png" alt=""><figcaption></figcaption></figure>
+
+What if instead of giving your agent 5-10 example phrases for each custom trigger, you could have Carter auto generate them from a single example?&#x20;
+
+In version 0.0.15 we are welcoming a much needed upgrade to 'example phrases' and 'responses' within the custom trigger configuration panel. Now simply add one example phrase and hit the 'generate' button. Carter will generate five different ways of saying your example phrase. Pretty sweet! This is a super beta feature so we welcome any feedback.&#x20;
+
+We've also ironed out a bug that prevented some triggers from training correctly.
+
 ### October 5th, 2022
 
 0.0.14
