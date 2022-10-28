@@ -24,6 +24,7 @@
 
 ## More
 
+* [Brand Resources](more/brand-resources.md)
 * [Pricing & Use](getting-started/pricing-and-use-beta.md)
 * [Changelog](changelog.md)
 * [Troubleshooting](troubleshooting.md)
