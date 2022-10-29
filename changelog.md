@@ -4,6 +4,15 @@ description: Additions and updates to the Carter platform and API.
 
 # Changelog
 
+### October 29th, 2022
+
+0.0.16
+
+* You can now delete API keys (useful if you leak them by accident and great for security hygiene).
+* Switches for 'allow AI generated questions' and 'allow open conversation' now fixed.
+
+Thanks for everybody that reported these issues on Discord!
+
 ### October 22nd, 2022
 
 0.0.15
