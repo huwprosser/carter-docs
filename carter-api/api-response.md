@@ -21,14 +21,17 @@ r = {
                     label:"location",
                     word:"london"
                 }
-            ]
+            ],
+            'meta': {
+                "foo":"bar"
+            }
         }
     ],
     'question': False,
     'output': {
         'text': "Hey human player!",
         'supplier': 'tr-pc',
-        'voice': 'https://api.carterapi.com/v0/speak/GZAnnd57N5GZNouS9hKrZf4Z9Ep7dSBu/Hey Human Player!'
+        'voice': 'https://api.carterapi.com/v0/speak/GZAnnd57N5GZNouS9hKEp7dSBu/Hey Human Player!'
     },
     'sentiment': {
         'input': { 
