@@ -4,6 +4,27 @@ description: Additions and updates to the Carter platform and API.
 
 # Changelog
 
+### November 4th, 2022
+
+0.0.17&#x20;
+
+<figure><img src=".gitbook/assets/CONVERSATIONAL AI (1).png" alt=""><figcaption></figcaption></figure>
+
+Our goal is to create a new level of companionship between the users of your project and the characters powered by Carter, which is why we've upgraded our conversational engine to support multiple unique users for each agent! Over time the agent will get to know each user individually, keep track of multiple users conversations at once and you can even bring your own user identifiers!
+
+**Conversational Engine**
+
+* Multi-user support! Launching with unique conversations and user learning (experimental). Simply pass a unique string, representing each of you users, into the UUID parameter for each request.
+
+**Dashboard**
+
+* NEW! See trigger labels in the test chat!
+* Save button is now sticky.
+* Custom trigger metadata not saving? Fixed.
+* Too much empty space on the agent builder? Fixed.
+* 'Allow AI generated questions" not saving? Fixed.
+* Light theme improvements.
+
 ### October 29th, 2022
 
 0.0.16
