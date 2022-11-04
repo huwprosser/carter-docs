@@ -60,7 +60,7 @@ In Javascript you can use this really easily with the Audio Object. Like this:
 
 ```
 //assuming you have your agent’s response
-var myAudio = new Audio(agent_response.output.audio);
+var myAudio = new Audio(agent_response.output.voice);
 myAudio.play()
 ```
 
