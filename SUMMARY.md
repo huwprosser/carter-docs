@@ -13,6 +13,7 @@
 
 * [Basics](dashboard/agents/README.md)
 * [Custom Triggers](agents/custom-triggers/README.md)
+  * [Requirements](agents/custom-triggers/requirements.md)
   * [Scene Control](agents/custom-triggers/scene-control.md)
 
 ## 👩💻 API
