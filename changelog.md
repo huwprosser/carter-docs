@@ -4,11 +4,25 @@ description: Additions and updates to the Carter platform and API.
 
 # Changelog
 
+### November 23rd, 2022
+
+0.0.18
+
+<figure><img src=".gitbook/assets/CONVERSATIONAL AI (1).png" alt=""><figcaption><p>Trigger Requirements example</p></figcaption></figure>
+
+Wow...it's been an embarrassingly long time between releases 🙈. Huw & Danny are both still alive we promise. \
+\
+Collecting further information is a challenge for any conversational experience, that's why we've been hard at working with "trigger requirements", the start of something beautiful...hopefully.
+
+* ****[**Trigger Requirements**](agents/custom-triggers/requirements.md) - Ask follow-up questions before activating a custom trigger!
+* **Infinite Load** - Bug Fix (Dashboard)
+* **Agent's  sometimes not responding** - Bug Fix
+
 ### November 4th, 2022
 
 0.0.17&#x20;
 
-<figure><img src=".gitbook/assets/CONVERSATIONAL AI (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/CONVERSATIONAL AI (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Our goal is to create a new level of companionship between the users of your project and the characters powered by Carter, which is why we've upgraded our conversational engine to support multiple unique users for each agent! Over time the agent will get to know each user individually, keep track of multiple users conversations at once and you can even bring your own user identifiers!
 
