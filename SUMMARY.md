@@ -12,8 +12,8 @@
 ## 🙂 Agents
 
 * [Basics](dashboard/agents/README.md)
-* [Custom Triggers](agents/custom-triggers/README.md)
-  * [Requirements](agents/custom-triggers/requirements.md)
+* [Training Your Agent](agents/custom-triggers/README.md)
+  * [Trigger Requirements](agents/custom-triggers/trigger-requirements.md)
   * [Scene Control](agents/custom-triggers/scene-control.md)
 
 ## 👩💻 API

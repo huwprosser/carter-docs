@@ -15,14 +15,23 @@ r = {
         {
             'type': 'greeting', 
             'score': 0.94, 
+            
+            // OPTIONAL - Activate entity recognition to extract names, dates etc.
             'entities': [
                 {
-                    confidence: 0.9,
                     label:"location",
-                    word:"london"
+                    word:"london",
+                    confidence: 0.9
                 }
             ],
+            
+            // OPTIONAL - return custom data with each custom trigger
             'meta': {
+                "foo":"bar"
+            },
+            
+            // OPTIONAL - data requested from the user in triiger requirements
+            'data' : {
                 "foo":"bar"
             }
         }
@@ -49,7 +58,11 @@ r = {
     },
     'time_taken': 2.023,
     'credits_used': 3,
-    'tid': '165874259062c56d9d85f9033thya555c84'
+    'tid': '165874259062c56d9d85f9033thya555c84',
+    
+    // OPTIONAL - returned when agent is gathering information for a custom trigger's requirements.
+    'information_request': true
+    
 }
 ```
 
@@ -57,7 +70,7 @@ so what does this mean? Let's break it down:
 
 **input:** The text given to the agent from the user.&#x20;
 
-**triggers:** A list of custom triggers that have met your minimum confidence threshold. These can be used to give canned responses, trigger in-game actions and detect names, places etc.
+****[**triggers**](../agents/custom-triggers/)**:** A list of custom triggers that have been activated by the user. These can be used to give canned responses, get information from the user, trigger in-game actions and detect names, places etc.
 
 **question:** If the user asked a question or not. Useful if you’re trying to do any post processing or want to log it as metadata in your own database!&#x20;
 
@@ -80,6 +93,8 @@ so what does this mean? Let's break it down:
 **credits\_used:** How many tokens your request used. Useful for usage and cost analysis tracking.&#x20;
 
 **tid:** A unique identifier for this turn (the request you sent to the API). This can be used to get support on an exact agent response or to use with our new Downvote feature!
+
+**information\_request:** Only returned if the user has activated a custom trigger that requires follow-up questions to be asked. Useful if needing to disabled wake-word detection temporarily etc.
 
 
 

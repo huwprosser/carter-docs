@@ -4,6 +4,20 @@ description: Additions and updates to the Carter platform and API.
 
 # Changelog
 
+### December 5th, 2022
+
+0.0.21
+
+A slight jump in the version number here as we rolled out a number of versions with essentially no change to the developer experience. This version introduces the "information\_request" boolean for each agent response as well as some bug fixes introduced in 0.0.18.
+
+* Bug fix - Custom triggers now respond consistently with an array data type.
+* Bug fix - Custom triggers can respond without a canned response being set.
+* Bug fix - custom triggers will now respond with NER/Entities when activated.
+* New! - 'information\_request' now returns when the agent is requesting information before activating a custom trigger.\
+
+
+It may also be worth having a look at[ this page](carter-api/api-response.md) to get up to speed with the response structure changes that have compounded over the past few releases.
+
 ### November 23rd, 2022
 
 0.0.18
@@ -14,7 +28,7 @@ Wow...it's been an embarrassingly long time between releases 🙈. Huw & Danny a
 \
 Collecting further information is a challenge for any conversational experience, that's why we've been hard at working with "trigger requirements", the start of something beautiful...hopefully.
 
-* ****[**Trigger Requirements**](agents/custom-triggers/requirements.md) - Ask follow-up questions before activating a custom trigger!
+* ****[**Trigger Requirements**](agents/custom-triggers/trigger-requirements.md) - Ask follow-up questions before activating a custom trigger!
 * **Infinite Load** - Bug Fix (Dashboard)
 * **Agent's  sometimes not responding** - Bug Fix
 

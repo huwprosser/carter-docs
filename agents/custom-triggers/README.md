@@ -1,8 +1,8 @@
 ---
-description: Steer the conversation.
+description: Steer the conversation with our custom triggers feature.
 ---
 
-# Custom Triggers
+# Training Your Agent
 
 Custom Triggers allow you to clearly detect what the player/user is talking about by learning from a few example phrases. With this you can steer the conversation a certain way and even make something happen within your game or application.
 

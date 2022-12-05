@@ -2,7 +2,7 @@
 description: Ask follow-up questions before activating your triggers.
 ---
 
-# Requirements
+# Trigger Requirements
 
 Conversational steering with Carter's custom triggers is awesome, but sometimes you need to ask follow up questions before making something happen in your application such as "Which colour sword would you like?" or "Which lights would you like me to turn off?". Custom Trigger requirements allow you to add follow-up questions to collect this data and then return it to your application along with the activated custom trigger. \
 \
@@ -17,5 +17,9 @@ You can add as many requirements as you want to your custom triggers. Simply edi
 \- Type (The type of data, currently we only allow the collection of the raw human response)\
 \
 Click "confirm" and save your custom trigger's changes. Once your agent is finished re-training, it will begin collecting the trigger's requirements before activating the custom trigger. Pretty neat. \
+\
+**Edit**
+
+While your agent is requesting information from the user, before activating the trigger, the "information\_request" boolean will be returned in the API response.\
 \
 Stuck? Reach out to us on the Discord server!
