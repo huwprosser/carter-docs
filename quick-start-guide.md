@@ -20,25 +20,34 @@ Now you want to chat with your agent right? This is pretty simple as Carter agen
 
 {% code lineNumbers="true" %}
 ```csharp
+using UnityEngine;
 using UnityEngine.Networking;
+    
+class UnityExample : MonoBehaviour {
+    
+    private WWEForm form;
 
-...
+    void Awake() {
+        form = new WWWForm();
+        form.AddField("aquery", "YOUR MESSAGE TO CARTER!");
+        form.AddField("api_key", "YOUR-API-KEY");
+        form.AddField("uuid", "USER-ID");
+        form.AddField("scene", "level-1"); //optional!
+        StartCoroutine(SendRequest());
+    }
 
-WWWForm form = new WWWForm();
-form.AddField("aquery", "YOUR MESSAGE TO CARTER!);
-form.AddField("api_key", "YOUR-API-KEY);
-form.AddField("uuid", "USER-ID");
-form.AddField("scene", "level-1"); //optional!
+    public Ienumerator SendRequest() {
+        UnityWebRequest www = UnityWebRequest.Post("https://api.carterapi.com/v0/chat", form);
+        yield return www.SendWebRequest();
 
-UnityWebRequest www = UnityWebRequest.Post("https://api.carterapi.com/v0/chat", form);
-yield return www.SendWebRequest();
-
-if (www.result != UnityWebRequest.Result.Success) {
-    Debug.Log(www.error);
-}
-else {
-    var response = www.downloadHandler.text;          
-    Debug.Log(response);
+        if (www.result != UnityWebRequest.Result.Success) {
+            Debug.Log(www.error);
+        }
+        else {
+            var response = www.downloadHandler.text;          
+            Debug.Log(response);
+        }
+    }
 }
 
 ```
