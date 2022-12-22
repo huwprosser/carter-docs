@@ -4,6 +4,12 @@ description: Additions and updates to the Carter platform and API.
 
 # Changelog
 
+### December 22nd, 2022
+
+0.0.22
+
+Minor changes to improve the workflow of adding and editing agent triggers. Previously, training would trigger every time you edited anything about a trigger, we now only train the agent when you've edited a model-relevant parameter such as "training phrases". We have also rearranged the "custom trigger library" popup to allow for improved browsing and navigation.
+
 ### December 5th, 2022
 
 0.0.21
