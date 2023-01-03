@@ -25,7 +25,7 @@ using UnityEngine.Networking;
 ...
 
 WWWForm form = new WWWForm();
-form.AddField("aquery", "YOUR MESSAGE TO CARTER!);
+form.AddField("query", "YOUR MESSAGE TO CARTER!);
 form.AddField("api_key", "YOUR-API-KEY);
 form.AddField("uuid", "USER-ID");
 form.AddField("scene", "level-1"); //optional!
