@@ -30,7 +30,7 @@ r = {
                 "foo":"bar"
             },
             
-            // OPTIONAL - data requested from the user in triiger requirements
+            // OPTIONAL - data requested from the user in trigger requirements
             'data' : {
                 "foo":"bar"
             }
