@@ -22,7 +22,7 @@ A slight jump in the version number here as we rolled out a number of versions w
 * New! - 'information\_request' now returns when the agent is requesting information before activating a custom trigger.\
 
 
-It may also be worth having a look at[ this page](carter-api/api-response.md) to get up to speed with the response structure changes that have compounded over the past few releases.
+It may also be worth having a look at[ this page](broken-reference) to get up to speed with the response structure changes that have compounded over the past few releases.
 
 ### November 23rd, 2022
 
@@ -34,7 +34,7 @@ Wow...it's been an embarrassingly long time between releases 🙈. Huw & Danny a
 \
 Collecting further information is a challenge for any conversational experience, that's why we've been hard at working with "trigger requirements", the start of something beautiful...hopefully.
 
-* ****[**Trigger Requirements**](agents/custom-triggers/trigger-requirements.md) - Ask follow-up questions before activating a custom trigger!
+* ****[**Trigger Requirements**](broken-reference) - Ask follow-up questions before activating a custom trigger!
 * **Infinite Load** - Bug Fix (Dashboard)
 * **Agent's  sometimes not responding** - Bug Fix
 
@@ -140,7 +140,7 @@ What a week! Due to continued high usage and demand for faster agent response ti
 
 After a few minor bug fixes spanning 0.0.8 and 0.0.9 we're pleased to release another incremental improvement. This update marks the rollout of some more proactive changes to the Carter API, combing the learnings from our private Beta so far and the research we've been conducting. \
 \
-**Audio Endpoint \[Experimental]**: Allowing developers to send audio files to the API and get an agent response back. We handle speech recognition and then pass it to your chosen agent for standard processing. Because of this, the response looks the same as the[ /chat endpoint response.](carter-api/api-response.md)
+**Audio Endpoint \[Experimental]**: Allowing developers to send audio files to the API and get an agent response back. We handle speech recognition and then pass it to your chosen agent for standard processing. Because of this, the response looks the same as the[ /chat endpoint response.](broken-reference)
 
 ### **August 20th, 2022**
 
@@ -166,7 +166,7 @@ Based on our awesome Discord Community's feedback, we're pleased to announce ano
 
 **Trigger-level sensitivity added.** Set the how confident you want your agent to be, for a **specific** trigger, before triggering a custom trigger. This can be found in the trigger editor.
 
-**Trigger Metadata** attach application data to each custom trigger, reducing demand for client-side logic and load on your database. See how to access this from your agent's response [here](carter-api/api-response.md).
+**Trigger Metadata** attach application data to each custom trigger, reducing demand for client-side logic and load on your database. See how to access this from your agent's response [here](broken-reference).
 
 ![](<.gitbook/assets/Screenshot 2022-08-17 at 13.11.17.png>)
 

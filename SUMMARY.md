@@ -2,26 +2,10 @@
 
 * [Carter](README.md)
 
-## 🚀 Meet Carter
+## 🚀 START
 
-* [Quick Start](quick-start-guide.md)
-* [Examples](examples/README.md)
-  * [Carter Voice Assistant](examples/carter-voice-assistant.md)
-* [Project Showcase](meet-carter/project-showcase.md)
-
-## 🙂 Agents
-
-* [Basics](dashboard/agents/README.md)
-* [Training Your Agent](agents/custom-triggers/README.md)
-  * [Trigger Requirements](agents/custom-triggers/trigger-requirements.md)
-  * [Scene Control](agents/custom-triggers/scene-control.md)
-
-## 👩💻 API
-
-* [Chat](carter-api/api-response.md)
-* [Voice](carter-api/voice-api.md)
-* [Audio Chat (NEW!)](api/audio-chat-new.md)
-* [Downvote](carter-api/downvote-agent-responses.md)
+* [Unity](start/unity.md)
+* [Python](start/python.md)
 
 ## More
 
