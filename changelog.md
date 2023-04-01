@@ -4,6 +4,12 @@ description: Additions and updates to the Carter platform and API.
 
 # Changelog
 
+### April 1st, 2023
+
+Version 1 of Carter enters private testing. Completely redesigned API, tools, docs and studio!\
+\
+Still the same awesome Discord community.
+
 ### December 22nd, 2022
 
 0.0.22

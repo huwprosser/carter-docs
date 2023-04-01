@@ -2,7 +2,7 @@
 description: Get talking to your agent ASAP.
 ---
 
-# Quick Start
+# Unity
 
 Let's just dive right in. To get started with Carter in your Unity project you need to follow these steps.
 
