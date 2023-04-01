@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Carter](README.md)
+* [Welcome to Carter!](README.md)
 
 ## 🚀 START
 
