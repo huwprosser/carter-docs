@@ -6,6 +6,7 @@
 
 * [Unity](quick-start-guide.md)
 * [Python](start/python.md)
+* [JavaScript](start/python-1.md)
 
 ## More
 
