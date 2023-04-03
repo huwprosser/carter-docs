@@ -19,10 +19,10 @@ Install the Carter Unity API package in your Unity project. You can find it at [
 Add Carter to your Unity project!
 
 <pre class="language-csharp"><code class="lang-csharp"><strong>using Carter;
-</strong><strong>
-</strong><strong>//...
-</strong><strong>
-</strong><strong>void Start()
+</strong>
+<strong>//...
+</strong>
+<strong>void Start()
 </strong>{
     myAgent = gameObject.AddComponent&#x3C;Agent>();
     myAgent.url = "https://api.carterlabs.ai/chat";
@@ -49,5 +49,10 @@ Add Carter to your Unity project!
 //...
 
 // send a message to your character
-myAgent.Interact("Hello Carter!");
+myAgent.Interact("MESSAGE YOU WANT TO SEND");
 </code></pre>
+
+* Replace "YOUR API KEY" with the API key you received when you created your character in the online studio. **Treat this as a password. Anyone can talk to your agent with this key!**
+* Replace "UNIQUE USER ID" with a unique ID for your player. This can be any string you want.
+* Replace "MESSAGE YOU WANT TO SEND" with the message you want to send to your character.
+* The response from your character will be returned as a JSON object. You can access the response message and any forced behaviours from the JSON object.

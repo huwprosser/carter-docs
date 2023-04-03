@@ -24,11 +24,11 @@ print(response.json())
 
 ```
 
-4. Replace "YOUR API KEY" with the API key you received when you created your character in the online studio.
+4. Replace "YOUR API KEY" with the API key you received when you created your character in the online studio. **Treat this as a password. Anyone can talk to your agent with this key!**
 5. Replace "UNIQUE USER ID" with a unique ID for your player. This can be any string you want.
 6. Replace "MESSAGE YOU WANT TO SEND" with the message you want to send to your character.
 7. The response from your character will be returned as a JSON object. You can access the response message and any forced behaviors from the JSON object.
 
 That's it! You're now ready to start building your own interactions with your Carter character in Python.
 
-``
+\`\`
