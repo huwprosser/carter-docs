@@ -4,7 +4,7 @@ description: Get started adding Carter to your JavaScript project!
 
 # JavaScript
 
-1. Create your character through the online studio at [https://studio.carterlabs.ai](https://studio.carterlabs.ai/).
+1. Create your character in the Controller at [https://controller.carterlabs.ai](https://controller.carterlabs.ai/).
 2. Use the following code to send a message to your character:
 
 ```javascript

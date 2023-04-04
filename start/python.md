@@ -4,7 +4,7 @@ description: Get started adding Carter to your Python project!
 
 # Python
 
-1. Create your character through the online studio at [https://studio.carterlabs.ai](https://studio.carterlabs.ai/).
+1. Create your character in the Controller at [https://controller.carterlabs.ai](https://controller.carterlabs.ai/).
 2. Install the requests library for Python. You can install it using pip by running `pip install requests`.
 3. Use the following code to send a message to your character:
 

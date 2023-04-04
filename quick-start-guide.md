@@ -8,7 +8,7 @@ Let's just dive right in. To get started with Carter in your Unity project you n
 
 ### **Step 1**
 
-Create your character through the online studio at [https://studio.carterlabs.ai](https://studio.carterlabs.ai/)
+Create your character in the Controller at [https://controller.carterlabs.ai](https://controller.carterlabs.ai).
 
 ### **Step 2**
 
