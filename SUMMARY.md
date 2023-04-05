@@ -4,16 +4,16 @@
 
 ## 🚀 START
 
-* [Unity](quick-start-guide.md)
+* [Unity](start/unity.md)
 * [Python](start/python.md)
-* [JavaScript](start/python-1.md)
+* [JavaScript](start/javascript.md)
+
+## API
+
+* [/chat](api/chat.md)
 
 ## More
 
 * [Changelog](changelog.md)
 * [Terms & Conditions](terms-and-conditions.md)
 * [Privacy & Cookies Policy](privacy-and-cookies-policy.md)
-
-## Group 1
-
-* [/chat](group-1/chat.md)
