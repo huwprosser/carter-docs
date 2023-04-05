@@ -17,3 +17,7 @@
 * [Changelog](changelog.md)
 * [Terms & Conditions](terms-and-conditions.md)
 * [Privacy & Cookies Policy](privacy-and-cookies-policy.md)
+
+## Tutorials
+
+* [Princess Ellie - Full Walkthrough](tutorials/princess-ellie-full-walkthrough.md)
