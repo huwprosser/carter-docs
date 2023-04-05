@@ -13,3 +13,7 @@
 * [Changelog](changelog.md)
 * [Terms & Conditions](terms-and-conditions.md)
 * [Privacy & Cookies Policy](privacy-and-cookies-policy.md)
+
+## Group 1
+
+* [/chat](group-1/chat.md)
