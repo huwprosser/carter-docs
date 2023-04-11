@@ -10,7 +10,7 @@ description: If you're new to crafting characters with Carter...
 
 _(The full write-up of Assistant Gadget's personality is below)._
 
-{% embed url="https://youtu.be/9JgA6jotEJI" %}
+{% embed url="https://www.youtube.com/watch?v=9JgA6jotEJI" %}
 _(Talk to Gadget on Carter's website:_ [_https://www.carterlabs.ai/_](https://www.carterlabs.ai/)_)_
 {% endembed %}
 
