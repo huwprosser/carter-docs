@@ -4,7 +4,7 @@ description: Everything you need to know about sending messages to your characte
 
 # /chat
 
-Check out how to send a message to your character [here](../start/unity.md). This page will expand. For now, here's an example response.
+Check out how to send a message to your character [here](../quick-start/unity.md). This page will expand. For now, here's an example response.
 
 ```
 {
