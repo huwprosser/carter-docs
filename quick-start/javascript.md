@@ -43,4 +43,7 @@ fetch('https://api.carterlabs.ai/chat', {
 
 That's it! You're now ready to start building your own interactions with your Carter character in JavaScript.
 
-\`\`
+\
+**😎 Our community builds neat stuff. Including CarterJS.**
+
+{% embed url="https://github.com/LazyLyrics/carter-js" %}
