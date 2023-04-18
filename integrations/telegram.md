@@ -11,7 +11,7 @@ If you've built a [character](../concepts/characters/) with Carter and want to c
 
 <figure><img src="../.gitbook/assets/fdcc7b6d5fb3354adf.jpg" alt=""><figcaption></figcaption></figure>
 
-Create a Telegram bot. Open up Telegram an search for "BotFather", this is an assistant built into Telegram that lets you create bots on their service. To get started type "/start". \
+Open up Telegram and search for "BotFather", this is an assistant built into Telegram that lets you create bots on their service. To get started type "/start", The BotFather will then walk you through the process.\
 \
 Once you've completed the conversation you will be given a Telegram access token.&#x20;
 
