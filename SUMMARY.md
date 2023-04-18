@@ -23,6 +23,10 @@
 * [/opener (beta)](api/opener-beta.md)
 * [/personalise (beta)](api/personalise-beta.md)
 
+## Integrations
+
+* [Telegram](integrations/telegram.md)
+
 ## More
 
 * [Changelog](changelog.md)
