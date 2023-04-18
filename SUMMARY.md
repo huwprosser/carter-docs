@@ -25,7 +25,7 @@
 
 ## Integrations
 
-* [Telegram](integrations/telegram.md)
+* [Telegram (Experimental)](integrations/telegram-experimental.md)
 
 ## More
 
