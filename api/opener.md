@@ -2,7 +2,7 @@
 description: This feature is currently experimental.
 ---
 
-# /opener (beta)
+# /opener
 
 Generate a conversation opener tailored to your [Player](../concepts/players.md) by simply providing your API key and the Player ID.
 
@@ -19,7 +19,8 @@ headersList = {
 
 payload = json.dumps({
   "key":"YOUR API KEY",
-  "playerId": "PLAYER ID"
+  "playerId": "PLAYER ID",
+  "personal": True || False # use to use character memory to enhance the opener. Default = True
 })
 
 response = requests.request("POST", reqUrl, data=payload,  headers=headersList)

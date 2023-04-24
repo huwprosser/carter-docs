@@ -20,12 +20,13 @@
 ## API
 
 * [/chat](api/chat.md)
-* [/opener (beta)](api/opener-beta.md)
-* [/personalise (beta)](api/personalise-beta.md)
+* [/opener](api/opener.md)
+* [/personalise](api/personalise.md)
 
 ## Integrations
 
-* [Telegram (Experimental)](integrations/telegram-experimental.md)
+* [Telegram](integrations/telegram.md)
+* [Webhooks](integrations/webhooks.md)
 
 ## More
 
