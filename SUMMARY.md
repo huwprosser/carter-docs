@@ -26,7 +26,7 @@
 ## Integrations
 
 * [Telegram](integrations/telegram.md)
-* [Webhooks](integrations/webhooks.md)
+* [Webhooks (beta)](integrations/webhooks-beta.md)
 
 ## More
 
