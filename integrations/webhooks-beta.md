@@ -1,8 +1,8 @@
 ---
-description: Connect your Carter agent to anything...yup.
+description: Connect your Carter character to anything...yup.
 ---
 
-# Webhooks
+# Webhooks (beta)
 
 With Web-hooks your API, service, heck even robot can receive messages from Carter when someone triggers a forced behaviour and generate a custom response to return back.\
 \
