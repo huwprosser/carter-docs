@@ -1,10 +1,10 @@
 ---
-description: Connect your Carter character to anything...yup.
+description: Beta
 ---
 
-# Webhooks (beta)
+# Plugins
 
-With Web-hooks your API, service, heck even robot can receive messages from Carter when someone triggers a forced behaviour and generate a custom response to return back.\
+With plugins your API...heck even robot can receive messages from Carter when someone triggers a forced behaviour and generate a custom response to return back.\
 \
 **Possible use cases include, but are in no way limited to:**\
 \- Building more complex apps on top of Carter hosted with Flask, FastAPI etc.\
@@ -12,14 +12,16 @@ With Web-hooks your API, service, heck even robot can receive messages from Cart
 \- Building next-level experiences for your Carter users! \
 \- Bring your own custom model!\
 \
-Right now, webhooks will only communicate with your API when someone activates a forced behaviour.
+Right now, plugins will only communicate with your API when someone activates a forced behaviour.\
+\
+<mark style="color:purple;">**This feature is likely to change significantly to allow you to build more.**</mark>
 
 <figure><img src="../.gitbook/assets/USER TALKS ABOUT (2).png" alt=""><figcaption></figcaption></figure>
 
-Carter can even send the same message to as many webhook endpoints you want, allowing you to host multiple services for different tasks, or perhaps a fleet of internet enabled robots. \
+Carter can even send the same message to as many plugins endpoints you want, allowing you to host multiple services for different tasks, or perhaps a fleet of internet enabled robots. \
 
 
-### Adding a Webhook
+### Adding a Plugin
 
 This is similar to the [Telegram integration](telegram.md). For now, you can simply call `/webhook/add` with your API key and the URL you want Carter to send the data to.\
 \
@@ -45,7 +47,7 @@ print(response.text)
 
 ### Response
 
-The response from Carter to your webhook will look like:
+The response from Carter to your plugins will look like:
 
 ```python
 {
@@ -58,7 +60,7 @@ The response from Carter to your webhook will look like:
 }
 ```
 
-### Removing a Webhook
+### Removing a plugin
 
 Call `/webhook/remove` with your API key and the URL you want to remove \
 \
@@ -84,7 +86,7 @@ print(response.text)
 
 <details>
 
-<summary>Webhook API Example (Python)</summary>
+<summary>Plugin API Example (Python)</summary>
 
 Below is a simple Python web server that sends an output object back to Carter.
 
