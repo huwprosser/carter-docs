@@ -10,7 +10,7 @@ With plugins your API...heck even robot can receive messages from Carter when so
 \- Building more complex apps on top of Carter hosted with Flask, FastAPI etc.\
 \- Controlling hardware such as Raspberry Pi on a network.\
 \- Building next-level experiences for your Carter users! \
-\- Bring your own custom model!\
+\- Bring your own custom model LLM!\
 \
 Right now, plugins will only communicate with your API when someone activates a forced behaviour.\
 \
