@@ -12,6 +12,7 @@ const data = {
   text: 'MESSAGE YOU WANT TO SEND',
   key: 'YOUR API KEY',
   playerId: 'UNIQUE USER ID (THIS CAN BE ANYTHING YOU WANT!)',
+  speak: true // DEFAULT FALSE | FOR VOICE OUTPUT
 };
 
 fetch('https://api.carterlabs.ai/chat', {

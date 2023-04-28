@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Welcome to Carter!](README.md)
+* [Discord](discord.md)
 * [🚀 Quick Start](quick-start/README.md)
   * [Unity](quick-start/unity.md)
   * [Python](quick-start/python.md)
   * [JavaScript](quick-start/javascript.md)
-  * [Discord](quick-start/discord.md)
 
 ## CONCEPTS
 

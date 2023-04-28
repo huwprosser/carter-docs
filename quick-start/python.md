@@ -18,6 +18,7 @@ response = requests.post("https://api.carterlabs.ai/chat", headers={
     "text": "MESSAGE YOU WANT TO SEND",
     "key": "YOUR API KEY",
     "playerId": "UNIQUE USER ID" # THIS CAN BE ANYTHING YOU WANT!
+    "speak": True # DEFAULT FALSE | FOR VOICE OUTPUT
 }))
 
 print(response.json())
