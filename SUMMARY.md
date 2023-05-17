@@ -22,6 +22,7 @@
 * [/chat](api/chat.md)
 * [/opener](api/opener.md)
 * [/personalise](api/personalise.md)
+* [/speak](api/speak.md)
 
 ## Integrations
 
