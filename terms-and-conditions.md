@@ -4,7 +4,7 @@ Feel free to reach out at, **hello@carterapi.com** if you have any queries on ou
 
 {% file src=".gitbook/assets/Carter's Terms of Service.pdf" %}
 
-**Ensuring Safe and Open Conversations with Carter**
+**Ensuring Safe Conversations with Carter**
 
 1. Our characters are created to act and talk just like real people. But sometimes, they might say things that are incorrect, harmful, or unexpected. Remember, it's just a chat - don't take their advice as being 100% accurate or something you should do.
 2. When you chat with our characters, they're able to remember things from your past conversations, just like a friend would. This memory is special to your chats and isn't shared with anyone else, even if they're talking to the same character.
