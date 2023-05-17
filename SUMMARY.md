@@ -32,7 +32,7 @@
 ## More
 
 * [Changelog](changelog.md)
-* [Terms & Conditions](terms-and-conditions.md)
+* [Safety & Terms](terms-and-conditions.md)
 * [Privacy & Cookies Policy](privacy-and-cookies-policy.md)
 
 ## Tutorials
