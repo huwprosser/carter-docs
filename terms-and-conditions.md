@@ -13,3 +13,15 @@ Feel free to reach out at, **hello@carterapi.com** if you have any queries on ou
 5. We make sure that no personal info is used when training our AI systems that all users interact with.
 6. You're in control of your data. You can decide to delete it or take a look at it whenever you want.
 7. Help us get better! We welcome feedback over on Discord or via **hello@carterapi.com**\
+
+
+#### Guidelines for Our Platform's Usage:
+
+We prioritise maintaining a safe and respectful environment on our platform. In line with this commitment, we have strict policies against the following activities:
+
+1. Exploiting our technology for deceptive practices, scams, or manipulation.
+2. Unauthorised imitation or replication of another individual's identity with harmful intent.
+3. Simulating, promoting or endorsing child maltreatment in any form, be it violent or sexually abusive, involving minors.
+4. Simulating, promoting or endorsing violent activities or illegal acts.
+
+Should a user be found engaging in any of the aforementioned activities, we will not hesitate to suspend the user account. This is crucial to preserve the integrity of our platform and ensure the safety and comfort of our users. To raise a dispute email at hello@carterapi.com.
