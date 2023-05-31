@@ -8,11 +8,9 @@ description: >-
 
 Here's a list of things we DO NOT allow:
 
-* Scams
-* Manipulation
-* Nefarious identity theft/cloning without consent
-* Child Abuse (violence or sexual abuse towards or including minors)
-* Repeated and unnecessary violence towards others.\
-
+* Using Carter to scam, steal or manipulate people in any way.
+* Identity theft/cloning without consent in a nefarious manner.
+* Simulation or encouragement of child abuse (violence or sexual abuse towards or including minors).
+* Repeated and unnecessary violence or illicit acts towards others.
 
 If you use Carter for any of the above your account will be suspended.
