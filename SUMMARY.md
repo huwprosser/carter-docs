@@ -34,7 +34,6 @@
 * [Changelog](changelog.md)
 * [Safety & Terms](terms-and-conditions.md)
 * [Privacy & Cookies Policy](privacy-and-cookies-policy.md)
-* [Moderation](more/moderation.md)
 
 ## Tutorials
 

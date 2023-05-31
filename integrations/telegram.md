@@ -9,7 +9,11 @@ If you've built a [character](../concepts/characters/) with Carter and want to c
 
 ### Step 1 - Create a Telegram Bot
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/fdcc7b6d5fb3354adf.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Open up Telegram and search for "BotFather", this is an assistant built into Telegram that lets you create bots on their service. To get started type "/start", The BotFather will then walk you through the process.\
 \
