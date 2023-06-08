@@ -24,7 +24,7 @@ You can find our entire current API spec [here](https://unstable.carterlabs.ai/d
 
 To switch from the existing Carter API to the Unstable API, follow these steps:
 
-1. **Update API Endpoint**: Update your API endpoint URL from `https://api.carterlabs.ai` to `https://unstable.carterlabs.ai` in your application code.
+1. **Update API Endpoint**: Update your API endpoint URL from `https://api.carterlabs.ai` to `https://unstable.carterlabs.ai/api` in your application code.
 2. **Replace Player IDs with User IDs**: Throughout your codebase, search for instances where Player IDs are used and replace them with User IDs. This ensures compatibility with the Unstable API's updated terminology.&#x20;
 
 ```json
