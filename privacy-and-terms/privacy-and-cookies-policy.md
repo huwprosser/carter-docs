@@ -1,7 +1,7 @@
 ---
 description: >-
   We are also tired of hard-to-reach online companies. Feel free to directly
-  contact our CEO regarding any data concerns via huw@carterapi.com.
+  contact our team regarding any data concerns via hello@carterapi.com.
 ---
 
 # Privacy & Cookies Policy
@@ -28,4 +28,4 @@ Cookies are tiny pieces of text that are saved to your browser when you consent.
 \
 **Read the full version:**
 
-{% file src=".gitbook/assets/Carter's Privacy & Cookies Policy.docx.pdf" %}
+{% file src="../.gitbook/assets/Privacy & Cookies Policy  - Carter Labs.pdf" %}
