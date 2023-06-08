@@ -32,10 +32,13 @@
 ## More
 
 * [Changelog](changelog.md)
-* [Safety & Terms](terms-and-conditions.md)
-* [Privacy & Cookies Policy](privacy-and-cookies-policy.md)
 
 ## Tutorials
 
 * [Princess Ellie - Full Walkthrough](tutorials/princess-ellie-full-walkthrough.md)
 * [Assistant Gadget - Full Walkthrough](tutorials/assistant-gadget-full-walkthrough.md)
+
+## Privacy & Terms
+
+* [Safety & Terms](privacy-and-terms/terms-and-conditions.md)
+* [Privacy & Cookies Policy](privacy-and-terms/privacy-and-cookies-policy.md)
