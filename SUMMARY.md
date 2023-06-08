@@ -40,5 +40,6 @@
 
 ## Privacy & Terms
 
-* [Safety & Terms](privacy-and-terms/terms-and-conditions.md)
+* [Consumer Terms of Service](privacy-and-terms/terms-and-conditions.md)
 * [Privacy & Cookies Policy](privacy-and-terms/privacy-and-cookies-policy.md)
+* [General Developer Terms of Service](privacy-and-terms/general-developer-terms-of-service.md)
