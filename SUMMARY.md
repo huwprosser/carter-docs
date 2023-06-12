@@ -15,7 +15,8 @@
   * [World](concepts/characters/world.md)
   * [Omissions](concepts/characters/omissions.md)
   * [Behaviours](concepts/characters/behaviours.md)
-* [Players](concepts/players.md)
+* [Players](concepts/players/README.md)
+  * [User ID Best Practices](concepts/players/user-id-best-practices.md)
 
 ## API
 

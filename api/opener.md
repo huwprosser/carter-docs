@@ -4,7 +4,7 @@ description: This feature is currently experimental.
 
 # /opener
 
-Generate a conversation opener tailored to your [Player](../concepts/players.md) by simply providing your API key and the Player ID.
+Generate a conversation opener tailored to your [Player](../concepts/players/) by simply providing your API key and the Player ID.
 
 ```python
 import requests
