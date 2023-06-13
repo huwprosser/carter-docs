@@ -28,7 +28,17 @@
 ## Integrations
 
 * [Telegram](integrations/telegram.md)
-* [Plugins](integrations/plugins.md)
+* [Webhooks](integrations/webhooks.md)
+
+## 🔌 Plugins
+
+* [Overview](plugins/overview.md)
+* [Commands](plugins/commands.md)
+* [Developers](plugins/developers/README.md)
+  * [Developer Overview](plugins/developers/overview.md)
+  * [Become a Developer](plugins/developers/become-a-developer.md)
+  * [Creating Plugins](plugins/developers/creating-plugins.md)
+  * [Developer Commands](plugins/developers/commands.md)
 
 ## More
 
