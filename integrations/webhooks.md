@@ -5,7 +5,7 @@ description: Previously known as Plugins
 # Webhooks
 
 {% hint style="success" %}
-We've just announced [Plugins](broken-reference), the successor to webhooks. Webhooks will stick around for now, and are useful for simple forced behaviour triggers. For anything more complex, we recommend using Plugins.
+We've just announced [Broken link](broken-reference "mention"), the successor to webhooks. Webhooks will stick around for now, and are useful for simple forced behaviour triggers. For anything more complex, we recommend using Plugins.
 {% endhint %}
 
 With webhooks your API...heck even robot can receive messages from Carter when someone triggers a forced behaviour and generate a custom response to return back.\
