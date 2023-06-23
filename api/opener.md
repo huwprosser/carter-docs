@@ -10,7 +10,7 @@ Generate a conversation opener tailored to your [Player](../concepts/players/) b
 import requests
 import json
 
-reqUrl = "https://api.carterlabs.ai/opener"
+reqUrl = "https://api.carterlabs.ai/api/opener"
 
 headersList = {
  "Accept": "*/*",
@@ -19,7 +19,7 @@ headersList = {
 
 payload = json.dumps({
   "key":"YOUR API KEY",
-  "playerId": "PLAYER ID",
+  "user_id": "USER ID",
   "personal": True || False # use to use character memory to enhance the opener. Default = True
 })
 

@@ -2,7 +2,7 @@
 description: This feature is currently experimental.
 ---
 
-# /personalise (beta)
+# /personalise
 
 Transform any piece of text into something your Character would say. For example, imagine we want our London taxi driver character to say "Hello", our personalise endpoint will return:\
 \
@@ -14,7 +14,7 @@ Usage is easy. Simply provide your Character's API key and the text you want to 
 import requests
 import json
 
-reqUrl = "https://api.carterlabs.ai/personalise"
+reqUrl = "https://api.carterlabs.ai/api/personalise"
 
 headersList = {
  "Accept": "*/*",

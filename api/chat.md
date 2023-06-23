@@ -14,13 +14,12 @@ Sending a message to a Carter character is easy. The `/chat` endpoint supports b
 import requests
 import json
 
-response = requests.post("https://api.carterlabs.ai/chat", headers={
+response = requests.post("https://api.carterlabs.ai/api/chat", headers={
     "Content-Type": "application/json"
 }, data=json.dumps({
     "text": "MESSAGE YOU WANT TO SEND",
     "key": "YOUR API KEY",
-    "playerId": "UNIQUE USER ID" # THIS CAN BE ANYTHING YOU WANT!
-    "speak": False
+    "user_id": "UNIQUE USER ID" # THIS CAN BE ANYTHING YOU WANT!
 }))
 
 print(response.json())
@@ -32,13 +31,12 @@ print(response.json())
 import requests
 import json
 
-response = requests.post("https://api.carterlabs.ai/chat", headers={
+response = requests.post("https://api.carterlabs.ai/api/chat", headers={
     "Content-Type": "application/json"
 }, data=json.dumps({
     "audio": "BASE64 WAVE AUDIO CLIP",
     "key": "YOUR API KEY",
-    "playerId": "UNIQUE USER ID" # THIS CAN BE ANYTHING YOU WANT!
-    "speak": True
+    "user_id": "UNIQUE USER ID" # THIS CAN BE ANYTHING YOU WANT!
 }))
 
 print(response.json())
