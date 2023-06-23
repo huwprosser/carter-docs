@@ -12,12 +12,12 @@ description: Get started adding Carter to your Python project!
 import requests
 import json
 
-response = requests.post("https://api.carterlabs.ai/chat", headers={
+response = requests.post("https://api.carterlabs.ai/api/chat", headers={
     "Content-Type": "application/json"
 }, data=json.dumps({
     "text": "MESSAGE YOU WANT TO SEND",
     "key": "YOUR API KEY",
-    "playerId": "UNIQUE USER ID" # THIS CAN BE ANYTHING YOU WANT!
+    "user_id": "UNIQUE USER ID" # THIS CAN BE ANYTHING YOU WANT!
     "speak": True # DEFAULT FALSE | FOR VOICE OUTPUT
 }))
 
@@ -26,9 +26,9 @@ print(response.json())
 ```
 
 4. Replace "YOUR API KEY" with the API key you received when you created your character in the online studio. **Treat this as a password. Anyone can talk to your agent with this key!**
-5. Replace "UNIQUE USER ID" with a unique ID for your player. This can be any string you want.
+5. Replace "UNIQUE USER ID" with a unique ID for your user. This can be any string you want.
 6. Replace "MESSAGE YOU WANT TO SEND" with the message you want to send to your character.
-7. The response from your character will be returned as a JSON object. You can access the response message and any forced behaviors from the JSON object.
+7. The response from your character will be returned as a JSON object. You can access the response message and any forced behaviours from the JSON object.
 
 That's it! You're now ready to start building your own interactions with your Carter character in Python.
 

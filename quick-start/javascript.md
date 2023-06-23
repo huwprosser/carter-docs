@@ -11,11 +11,11 @@ description: Get started adding Carter to your JavaScript project!
 const data = {
   text: 'MESSAGE YOU WANT TO SEND',
   key: 'YOUR API KEY',
-  playerId: 'UNIQUE USER ID (THIS CAN BE ANYTHING YOU WANT!)',
+  user_id: 'UNIQUE USER ID (THIS CAN BE ANYTHING YOU WANT!)',
   speak: true // DEFAULT FALSE | FOR VOICE OUTPUT
 };
 
-fetch('https://api.carterlabs.ai/chat', {
+fetch('https://api.carterlabs.ai/api/chat', {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',
