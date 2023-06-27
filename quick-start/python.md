@@ -12,7 +12,7 @@ description: Get started adding Carter to your Python project!
 import requests
 import json
 
-response = requests.post("https://api.carterlabs.ai/api/chat", headers={
+response = requests.post("https://api.carterlabs.ai/chat", headers={
     "Content-Type": "application/json"
 }, data=json.dumps({
     "text": "MESSAGE YOU WANT TO SEND",

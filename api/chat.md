@@ -14,7 +14,7 @@ Sending a message to a Carter character is easy. The `/chat` endpoint supports b
 import requests
 import json
 
-response = requests.post("https://api.carterlabs.ai/api/chat", headers={
+response = requests.post("https://api.carterlabs.ai/chat", headers={
     "Content-Type": "application/json"
 }, data=json.dumps({
     "text": "MESSAGE YOU WANT TO SEND",
@@ -31,7 +31,7 @@ print(response.json())
 import requests
 import json
 
-response = requests.post("https://api.carterlabs.ai/api/chat", headers={
+response = requests.post("https://api.carterlabs.ai/chat", headers={
     "Content-Type": "application/json"
 }, data=json.dumps({
     "audio": "BASE64 WAVE AUDIO CLIP",

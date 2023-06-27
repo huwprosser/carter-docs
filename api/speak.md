@@ -19,7 +19,7 @@ You must provide:\
 import requests
 
 def speak(toSay):
-    url = "https://api.carterlabs.ai/api/speak"
+    url = "https://api.carterlabs.ai/speak"
     headers = {"Content-Type": "application/json"}
     data = {
         "text": "HELLO CARTER",
@@ -48,7 +48,7 @@ def speak(toSay):
 <summary>JavaScript (Browser)</summary>
 
 ```javascript
-fetch("https://api.carterlabs.ai/api/speak", {
+fetch("https://api.carterlabs.ai/speak", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({

@@ -15,7 +15,7 @@ const data = {
   speak: true // DEFAULT FALSE | FOR VOICE OUTPUT
 };
 
-fetch('https://api.carterlabs.ai/api/chat', {
+fetch('https://api.carterlabs.ai/chat', {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',

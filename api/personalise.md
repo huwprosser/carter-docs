@@ -14,7 +14,7 @@ Usage is easy. Simply provide your Character's API key and the text you want to 
 import requests
 import json
 
-reqUrl = "https://api.carterlabs.ai/api/personalise"
+reqUrl = "https://api.carterlabs.ai/personalise"
 
 headersList = {
  "Accept": "*/*",

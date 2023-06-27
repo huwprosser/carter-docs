@@ -4,13 +4,13 @@ description: This feature is currently experimental.
 
 # /opener
 
-Generate a conversation opener tailored to your [Player](../concepts/players/) by simply providing your API key and the Player ID.
+Generate a conversation opener tailored to your [Player](../concepts/user/) by simply providing your API key and the Player ID.
 
 ```python
 import requests
 import json
 
-reqUrl = "https://api.carterlabs.ai/api/opener"
+reqUrl = "https://api.carterlabs.ai/opener"
 
 headersList = {
  "Accept": "*/*",
