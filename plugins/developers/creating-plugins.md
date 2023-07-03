@@ -100,7 +100,7 @@ Unsuccessful plugin response with error message:
 
 ## Manifest Format
 
-Every plugin is defined by a manifest file that describes where to find the plugin API and what its capabilities are. Validate your manifest file against the schema [here](https://www.jsonschemavalidator.net/s/5wjIMQ3y).
+Every plugin is defined by a manifest file that describes where to find the plugin API and what its capabilities are. Validate your manifest file against the schema [here](https://www.jsonschemavalidator.net/s/RxkszEgr).
 
 <table data-full-width="true"><thead><tr><th width="242">Property</th><th width="90.5">Type</th><th>Required</th><th width="293">Example</th><th width="365">Description</th></tr></thead><tbody><tr><td>manifest_version</td><td>string</td><td>Yes</td><td>"1"</td><td>Manifest file version (current: "1").</td></tr><tr><td>developer_id</td><td>string</td><td>Yes</td><td>"646cd283be483c45b56b3a8f"</td><td>The ID of the developer releasing the plugin (see <a data-mention href="become-a-developer.md">become-a-developer.md</a>).</td></tr><tr><td>version</td><td>string</td><td>Yes</td><td>"1.0.0"</td><td>The version of your Plugin (semantic versioning format). Must be incremented before submitting an update to an existing plugin.</td></tr><tr><td>name</td><td>string</td><td>Yes</td><td>"weather"</td><td>The name that unqiuely identifies your plugin (cannot be changed).</td></tr><tr><td>name_for_human</td><td>string</td><td>Yes</td><td>"Joe's Awesome Weather"</td><td>The display name for humans.</td></tr><tr><td>name_for_machine</td><td>string</td><td>Yes</td><td>"weather"</td><td>The name that the system will see (only lowercase letters and underscores).</td></tr><tr><td>description_for_human</td><td>string</td><td>Yes</td><td>"Get up-to-date weather information for any location."</td><td>A simple description of the plugin for humans.</td></tr><tr><td>desscription_for_machine</td><td>string</td><td>Yes</td><td>"Get up-to-date weather information for any location."</td><td>A description that the system will see. Can be used to provide additional context that may be relevant to our plugin detection system. We recommend keeping this the same as <code>description_for_human</code> in simple cases.</td></tr><tr><td>author_name</td><td>string</td><td>Yes</td><td>"Joe Bloggs" or "My Company Ltd"</td><td>The name of the Plugin author (individual or organisation).</td></tr><tr><td>contact_email</td><td>string</td><td>Yes</td><td>"joe@example.com"</td><td>The contact email for support and moderation.</td></tr><tr><td>api</td><td>object</td><td>Yes</td><td></td><td>The API Specfication (described below).</td></tr></tbody></table>
 
@@ -243,7 +243,7 @@ Now that you know what we expect of your API and manifest file, you're ready to 
 
 ### Troubleshooting
 
-* If you're receiving an error when submitting your plugin manifest, it may have invalid content. Validate your manifest's content [here](https://www.jsonschemavalidator.net/s/5wjIMQ3y).
+* If you're receiving an error when submitting your plugin manifest, it may have invalid content. Validate your manifest's content [here](https://www.jsonschemavalidator.net/s/RxkszEgr).
 * If you're trying to install someone else's plugin and you receive an error stating that the plugin could not be found, it may still be private. Let them know that they must publish it before others can install it.
 
 ## Updating Your Plugin
