@@ -8,6 +8,10 @@ Check out how to send a message to your character [here](../quick-start/unity.md
 \
 Sending a message to a Carter character is easy. The `/chat` endpoint supports both text and audio inputs natively. With ASR built into the conversation flow if needed.
 
+{% swagger src="https://api.carterlabs.ai/openapi.json" path="/chat" method="post" %}
+[https://api.carterlabs.ai/openapi.json](https://api.carterlabs.ai/openapi.json)
+{% endswagger %}
+
 ### Text Request
 
 ```python

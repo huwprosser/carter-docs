@@ -4,12 +4,11 @@ description: Text-to-speech when you need it. (Beta)
 
 # /speak
 
-Our[ /chat](chat.md) endpoint already supports text-to-speech out of the box by simply providing `speak: true` in your request. This however impacts latency. That's why we're now supporting stand-alone speech requests that will use your character's same voice.\
-\
-You must provide:\
-"**text"**: The text you wish to synethsise.\
-"**key"**: Your agent's api key.\
-**"voice\_id"**: Currently just "male" or "female" - more coming soon 😎
+Our[ /chat](chat.md) endpoint already supports text-to-speech out of the box by simply providing `speak: true` in your request. This however impacts latency. That's why we're now supporting stand-alone speech requests that will use your character's same voice.
+
+{% swagger src="https://api.carterlabs.ai/openapi.json" path="/speak" method="post" %}
+[https://api.carterlabs.ai/openapi.json](https://api.carterlabs.ai/openapi.json)
+{% endswagger %}
 
 <details>
 
@@ -23,8 +22,7 @@ def speak(toSay):
     headers = {"Content-Type": "application/json"}
     data = {
         "text": "HELLO CARTER",
-        "key": "YOUR API KEY",
-        "voice_id": "female"|"male"
+        "key": "YOUR API KEY"
     }
     
     try:
@@ -53,8 +51,7 @@ fetch("https://api.carterlabs.ai/speak", {
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
         text: "HELLO CARTER",
-        key: "YOUR API KEY",
-        voice_id: "female"|"male"
+        key: "YOUR API KEY"
     }),
 })
 .then((response) => response.json())

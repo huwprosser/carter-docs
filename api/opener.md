@@ -6,6 +6,10 @@ description: This feature is currently experimental.
 
 Generate a conversation opener tailored to your [Player](../concepts/user/) by simply providing your API key and the Player ID.
 
+{% swagger src="https://api.carterlabs.ai/openapi.json" path="/opener" method="post" %}
+[https://api.carterlabs.ai/openapi.json](https://api.carterlabs.ai/openapi.json)
+{% endswagger %}
+
 ```python
 import requests
 import json
