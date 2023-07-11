@@ -31,3 +31,7 @@ response = requests.request("POST", reqUrl, data=payload,  headers=headersList)
 
 print(response.text)
 ```
+
+{% hint style="warning" %}
+**Important**: See [user-id-best-practices.md](../concepts/user/user-id-best-practices.md "mention") to learn how to choose a good `user_id` value.
+{% endhint %}

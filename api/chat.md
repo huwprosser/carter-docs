@@ -51,10 +51,12 @@ print(response.json())
 * **"text":** Used to provide the human's conversational input to the character.
 * **"audio"**: Represents a base64-encoded audio clip in the WAVE format. Used to provide audio data to the API as an alternative to text input. If provided, Carter will run the clip through our ASR system.
 * **"key"**: Specifies the API key for the character.&#x20;
-* **"playerId"**: Placeholder for a unique identifier representing a user in the system. Can be any string value that uniquely identifies a user. Often used in applications where user-specific actions or data need to be tracked or associated. Memories etc will be stored alongside this ID.
+* **"user\_id"**: A unique identifier representing a user in the system. Can be any string value that uniquely identifies a user.
 * **"speak"**: A boolean flag that determines whether the API should use speech synthesis to provide the output as a spoken audio clip using the characters gender (currently).
 
-
+{% hint style="warning" %}
+**Important**: See [user-id-best-practices.md](../concepts/user/user-id-best-practices.md "mention") to learn how to choose a good `user_id` value.
+{% endhint %}
 
 ### Response
 
