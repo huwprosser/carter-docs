@@ -172,4 +172,3 @@ The weather Plugin also has a weather warnings API endpoint which uses a forced 
 
     > _Agent:_ Arr, matey! That be a yellow severity warnin' for ye! Beware the heavy showers and thunderstorms, for they be mighty fierce!
 
-***

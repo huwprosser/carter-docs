@@ -1,34 +1,34 @@
 # Table of contents
 
 * [Welcome to Carter!](README.md)
-* [Discord](discord.md)
 * [🚀 Quick Start](quick-start/README.md)
   * [Unity](quick-start/unity.md)
   * [Python](quick-start/python.md)
   * [JavaScript](quick-start/javascript.md)
+* [Discord](discord.md)
 
 ## CONCEPTS
 
-* [Characters](concepts/characters/README.md)
-  * [Personality](concepts/characters/personality.md)
-  * [Talking Style](concepts/characters/talking-style.md)
-  * [World](concepts/characters/world.md)
-  * [Omissions](concepts/characters/omissions.md)
-  * [Behaviours](concepts/characters/behaviours.md)
+* [Agents](concepts/agents/README.md)
+  * [Personality](concepts/agents/personality.md)
+  * [Talking Style](concepts/agents/talking-style.md)
+  * [World](concepts/agents/world.md)
+  * [Omissions](concepts/agents/omissions.md)
+  * [Behaviours](concepts/agents/behaviours.md)
 * [User](concepts/user/README.md)
   * [User ID Best Practices](concepts/user/user-id-best-practices.md)
 
 ## API
 
 * [/chat](api/chat.md)
+* [/context - NEW! 🚀](api/context-new.md)
 * [/opener](api/opener.md)
 * [/personalise](api/personalise.md)
 * [/speak](api/speak.md)
 
 ## Integrations
 
-* [Telegram](integrations/telegram.md)
-* [Webhooks](integrations/webhooks.md)
+* [Webhooks \[Deprecated\]](integrations/webhooks-deprecated.md)
 
 ## 🔌 Plugins
 
@@ -39,10 +39,6 @@
   * [Become a Developer](plugins/developers/become-a-developer.md)
   * [Creating Plugins](plugins/developers/creating-plugins.md)
   * [Developer Commands](plugins/developers/commands.md)
-
-## More
-
-* [Changelog](changelog.md)
 
 ## Tutorials
 

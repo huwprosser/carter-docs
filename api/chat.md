@@ -24,6 +24,7 @@ response = requests.post("https://api.carterlabs.ai/chat", headers={
     "text": "MESSAGE YOU WANT TO SEND",
     "key": "YOUR API KEY",
     "user_id": "UNIQUE USER ID" # THIS CAN BE ANYTHING YOU WANT!
+    "context": "WHAT IS HAPPENING" # OPTIONAL
 }))
 
 print(response.json())
@@ -41,6 +42,7 @@ response = requests.post("https://api.carterlabs.ai/chat", headers={
     "audio": "BASE64 WAVE AUDIO CLIP",
     "key": "YOUR API KEY",
     "user_id": "UNIQUE USER ID" # THIS CAN BE ANYTHING YOU WANT!
+    "context": "WHAT IS HAPPENING" # OPTIONAL
 }))
 
 print(response.json())

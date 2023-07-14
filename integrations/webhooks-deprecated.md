@@ -2,7 +2,11 @@
 description: Previously known as Plugins
 ---
 
-# Webhooks
+# Webhooks \[Deprecated]
+
+{% hint style="warning" %}
+Webhooks are now read only. Please use Plugins for new 3rd party integrations. They're much more powerful and reliable. Please reach out on Discord if you have any queries.
+{% endhint %}
 
 {% hint style="success" %}
 We've just announced [Broken link](broken-reference "mention"), the successor to webhooks. Webhooks will stick around for now, and are useful for simple forced behaviour triggers. For anything more complex, we recommend using Plugins.
@@ -25,7 +29,7 @@ Carter can even send the same message to as many webhook endpoints as you want, 
 
 ### Adding a Webhook
 
-This is similar to the [Telegram integration](telegram.md). For now, you can simply call `/webhook/add` with your API key and the URL you want Carter to send the data to.\
+This is similar to the [Telegram integration](broken-reference). For now, you can simply call `/webhook/add` with your API key and the URL you want Carter to send the data to.\
 \
 <mark style="color:blue;">**You only need to run this once.**</mark>
 

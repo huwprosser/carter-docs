@@ -3,7 +3,7 @@
 Plugins allow you to extend the functionality of an agent. They can be used to make the agent more useful, more interesting to talk to, or better suited to helping you with a specific task.
 
 {% hint style="info" %}
-Plugins are a successor to [webhooks.md](../integrations/webhooks.md "mention"). Webhooks allow you to detect when a forced behaviour is triggered.
+Plugins are a successor to [webhooks-deprecated.md](../integrations/webhooks-deprecated.md "mention"). Webhooks allow you to detect when a forced behaviour is triggered.
 {% endhint %}
 
 ## Why Use Plugins?
