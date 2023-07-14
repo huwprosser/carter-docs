@@ -256,7 +256,7 @@ After you have submitted a plugin, you might wish to make changes. This could be
 
 ## Example Plugin
 
-In [#instructions](creating-plugins.md#instructions "mention") we introduced a [Replit template](https://replit.com/@CallumAtCarter/Carter-Plugin-Template?v=1) that can be used to get started with plugin development quickly. In this section we will discuss a simple example plugin to show how a plugin can be made in practice.
+In [#creating-your-first-plugin](creating-plugins.md#creating-your-first-plugin "mention") we introduced a [Replit template](https://replit.com/@CallumAtCarter/Carter-Plugin-Template?v=1) that can be used to get started with plugin development quickly. In this section we will discuss a simple example plugin to show how a plugin can be made in practice.
 
 ### Random Number Generator
 
