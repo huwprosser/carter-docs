@@ -44,6 +44,7 @@
 
 * [Princess Ellie - Full Walkthrough](tutorials/princess-ellie-full-walkthrough.md)
 * [Assistant Gadget - Full Walkthrough](tutorials/assistant-gadget-full-walkthrough.md)
+* [(NEW) How To Make The Best Carter Characters](tutorials/new-how-to-make-the-best-carter-characters.md)
 
 ## Privacy & Terms
 
