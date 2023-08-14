@@ -2,7 +2,15 @@
 description: Keep your agent up-to-date with the world around it.
 ---
 
-# /context - NEW! 🚀
+# /context
+
+{% hint style="warning" %}
+**Sunset Notice** — **API**
+
+We are sunsetting our public API on 01 September 2023. All characters are alive and waiting in [Carter Chat](https://carter.chat).
+
+Read the full notice: [sunset-notice.md](sunset-notice.md "mention")
+{% endhint %}
 
 The Context API lets programmers provide their agents with separate _context prompts_, helping it understand what's going on in the conversation and the world around it.&#x20;
 

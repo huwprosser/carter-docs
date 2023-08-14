@@ -6,6 +6,14 @@ description: Carter is free for small projects and solo devs!
 
 <figure><img src=".gitbook/assets/download.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+**Sunset Notice** — **API**
+
+We are sunsetting our public API on 01 September 2023. All characters are alive and waiting in [Carter Chat](https://carter.chat).
+
+Read the full notice: [sunset-notice.md](api/sunset-notice.md "mention")
+{% endhint %}
+
 ### What is Carter?
 
 Imagine your players being able to converse with your characters in a deep, persistent way that propels your narrative and game into the future with generative AI.

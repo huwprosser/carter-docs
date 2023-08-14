@@ -4,6 +4,14 @@ description: Everything you need to know about sending messages to your characte
 
 # /chat
 
+{% hint style="warning" %}
+**Sunset Notice** — **API**
+
+We are sunsetting our public API on 01 September 2023. All characters can continue to be used in [Carter Chat](https://carter.chat).
+
+Read the full notice: [sunset-notice.md](sunset-notice.md "mention")
+{% endhint %}
+
 Check out how to send a message to your character [here](../quick-start/unity.md). \
 \
 Sending a message to a Carter character is easy. The `/chat` endpoint supports both text and audio inputs natively. With ASR built into the conversation flow if needed.

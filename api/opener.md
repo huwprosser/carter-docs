@@ -4,6 +4,14 @@ description: This feature is currently experimental.
 
 # /opener
 
+{% hint style="warning" %}
+**Sunset Notice** — **API**
+
+We are sunsetting our public API on 01 September 2023. All characters are alive and waiting in [Carter Chat](https://carter.chat).
+
+Read the full notice: [sunset-notice.md](sunset-notice.md "mention")
+{% endhint %}
+
 Generate a conversation opener tailored to your [Player](../concepts/user/) by simply providing your API key and the Player ID.
 
 {% swagger src="https://api.carterlabs.ai/openapi.json" path="/opener" method="post" %}

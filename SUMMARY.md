@@ -20,8 +20,9 @@
 
 ## API
 
+* [Sunset Notice](api/sunset-notice.md)
 * [/chat](api/chat.md)
-* [/context - NEW! 🚀](api/context-new.md)
+* [/context](api/context.md)
 * [/opener](api/opener.md)
 * [/personalise](api/personalise.md)
 * [/speak](api/speak.md)

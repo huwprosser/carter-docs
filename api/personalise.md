@@ -4,6 +4,14 @@ description: This feature is currently experimental.
 
 # /personalise
 
+{% hint style="warning" %}
+**Sunset Notice** — **API**
+
+We are sunsetting our public API on 01 September 2023. All characters are alive and waiting in [Carter Chat](https://carter.chat).
+
+Read the full notice: [sunset-notice.md](sunset-notice.md "mention")
+{% endhint %}
+
 Transform any piece of text into something your Character would say. For example, imagine we want our London taxi driver character to say "Hello", our personalise endpoint will return:\
 \
 "Alright mate!"

@@ -4,6 +4,14 @@ description: Text-to-speech when you need it. (Beta)
 
 # /speak
 
+{% hint style="warning" %}
+**Sunset Notice** — **API**
+
+We are sunsetting our public API on 01 September 2023. All characters are alive and waiting in [Carter Chat](https://carter.chat).
+
+Read the full notice: [sunset-notice.md](sunset-notice.md "mention")
+{% endhint %}
+
 Our[ /chat](chat.md) endpoint already supports text-to-speech out of the box by simply providing `speak: true` in your request. This however impacts latency. That's why we're now supporting stand-alone speech requests that will use your character's same voice.
 
 {% swagger src="https://api.carterlabs.ai/openapi.json" path="/speak" method="post" %}
