@@ -12,7 +12,7 @@ description: 'Here are the terms:'
 \
 **Taxes:** Winners are responsible for any taxes, duties, or fees associated with their winnings.\
 \
-**Content:** All submissions must be original content. Reposting or duplicating content will result in disqualification. Content must also be published for a minimum of 14 days before receiving payment.
+**Content:** All submissions must be original content AND IN ENGLISH. Reposting or duplicating content will result in disqualification. Content must also be published for a minimum of 14 days before receiving payment.
 
 **Proof:** Participants will need to email content@carterapi.com and provide proof of identity, authenticity of their content, or other pertinent details as deemed necessary by Carter.Chat for verification before payment.\
 \
