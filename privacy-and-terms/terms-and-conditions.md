@@ -1,8 +1,8 @@
-# Safety & Terms
+# Consumer Terms of Service
 
 Feel free to reach out at, **hello@carterapi.com** if you have any queries on our Terms and Conditions below.
 
-{% file src=".gitbook/assets/Carter's Terms of Service.pdf" %}
+{% file src="../.gitbook/assets/Terms of Service - Carter Labs.pdf" %}
 
 **Ensuring Safe Conversations with Carter**
 
@@ -22,6 +22,5 @@ We prioritise maintaining a safe and respectful environment on our platform. In 
 1. Exploiting our technology for deceptive practices, scams, or manipulation.
 2. Unauthorised imitation or replication of another individual's identity with harmful intent.
 3. Simulating, promoting or endorsing child maltreatment in any form, be it violent or sexually abusive, involving minors.
-4. Simulating, promoting or endorsing violent activities or illegal acts.
 
 Should a user be found engaging in any of the aforementioned activities, we will not hesitate to suspend the user account. This is crucial to preserve the integrity of our platform and ensure the safety and comfort of our users. To raise a dispute email at hello@carterapi.com.
