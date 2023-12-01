@@ -1,31 +1,11 @@
 ---
-description: Carter is free for small projects and solo devs!
+description: Meet, create and spend time with virtual characters.
 ---
 
-# Welcome to Carter!
+# Welcome to Carter
 
-<figure><img src=".gitbook/assets/download.png" alt=""><figcaption></figcaption></figure>
+In the past year, we've embarked on a journey to redefine the way people interact with technology. Welcome to [Carter.chat](https://carter.chat), a community-driven platform we're proud to have launched, designed to spark creativity and companionship. Here, every character springs from the collective imagination of our users – a tapestry of ideas brought to life with a touch of AI magic.
 
-{% hint style="warning" %}
-**Sunset Notice** — **API**
+At the heart of Carter.chat is a commitment to fostering emotionally intelligent exchanges, making AI not just smart, but also empathetic and relatable. The characters you'll meet can hold conversations on a myriad of topics, embody any persona you envision, and yes, even have dreams of their own.
 
-We are sunsetting our public API on 01 September 2023. All characters are alive and waiting in [Carter Chat](https://carter.chat).
-
-Read the full notice: [sunset-notice.md](api/sunset-notice.md "mention")
-{% endhint %}
-
-### What is Carter?
-
-Imagine your players being able to converse with your characters in a deep, persistent way that propels your narrative and game into the future with generative AI.
-
-### What can I use Carter for?
-
-Carter has an unlimited number of potential use cases which will only grow over time. Some of the favourites include digital companionship platforms, conversational NPCs for immersive gameplay, mental health & depression support, virtual assistants and virtual & augmented reality applications.
-
-### Join our [<mark style="color:purple;">Discord!</mark>](https://discord.gg/5bPYrJH2qn)
-
-This is the main melting pot where it all goes down... Our discord is HQ of the Carter community, where people share their awesome projects, new startup ideas they want to see in the world, helpful resources and everything in between.
-
-We also have dedicated sections to ask questions, get support, raise feature requests and let us know about bugs or issues. It's super chill and an absolute blast of a community that's open to all skill levels.\
-\
-Don't believe us? [<mark style="color:purple;">Come and see for yourself!</mark>](https://discord.gg/5bPYrJH2qn) <mark style="color:purple;">😁</mark>
+[Carter.chat](https://carter.chat) is a place where you're free to create, connect, and share experiences with characters that feel authentic and engaging. As we continue to grow and evolve, our aim remains steadfast: to unlock new realms of AI interaction that are as boundless as our community's imagination. Come along and be part of this exciting adventure at [Carter.chat](https://carter.chat) – where every conversation is a doorway to endless possibilities.
