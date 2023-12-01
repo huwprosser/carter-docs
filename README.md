@@ -1,5 +1,7 @@
 ---
 description: Meet, create and spend time with virtual characters.
+cover: .gitbook/assets/IMG_2361.JPG
+coverY: 79
 ---
 
 # Welcome to Carter
