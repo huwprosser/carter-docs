@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Delete your account](README.md)
-* [Delete Account](delete-account.md)
+* [Terms of Service](README.md)
+* [Privacy & Cookies Policy](privacy-and-cookies-policy.md)
 * [Credits](credits.md)
