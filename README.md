@@ -1,6 +1,3 @@
----
-description: Please find our Terms of Service below.
----
+# Welcome To Carter Chat
 
-# Terms of Service
-
+Welcome to Carter Chat! This place is about to get more filled in with guides, tutorials and other fun stuff. But for now, it's pretty bare...
