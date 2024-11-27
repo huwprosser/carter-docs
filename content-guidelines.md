@@ -1,4 +1,4 @@
-# Moderation Policy
+# Content Guidelines
 
 At Carter Chat we’re committed to creating an enjoyable experience for everyone. Here are the types of user-created content that are not allowed on our platform.
 
