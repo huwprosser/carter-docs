@@ -15,4 +15,6 @@ You've found our docs page. If you're looking for the main site, [click here](ht
 \
 [Terms of Service](<README (1).md>)\
 \
-[Privacy & Cookies](privacy-and-cookies-policy.md)
+[Privacy & Cookies](privacy-and-cookies-policy.md)\
+\
+Want further support? Talk to our team on [Discord](https://discord.gg/carterchat) or reach out via [support@carter.chat](mailto:support@carter.chat).
