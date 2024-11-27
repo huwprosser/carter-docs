@@ -5,7 +5,6 @@ At Carter Chat we’re committed to creating an enjoyable experience for everyon
 * **Child sexual content**: Absolutely no tolerance for any content of this nature.
 * **Explicit images or nudity**: Any content that depicts sexual or explicit nudity.
 * **Excessive gore**: Content that includes graphic violence or excessive depiction of blood and injury.
-* **Hate speech**: Including but not limited to racism, homophobia, or any form of discrimination targeting individuals or groups.
 
 Your character may be removed, and in some cases your account will be suspended if it meets any of the above criteria.
 
