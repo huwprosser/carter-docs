@@ -6,4 +6,4 @@
 * [Terms of Service](<README (1).md>)
 * [Credits](credits.md)
 * [Delete Your data](delete-your-data.md)
-* [Safety](safety.md)
+* [Safety Guidelines](safety-guidelines.md)
