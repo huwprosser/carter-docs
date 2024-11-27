@@ -1,3 +1,18 @@
+---
+description: >-
+  We're a place where you can create interactive, fictional ai characters with
+  world-class conversation, fantastic memory, a content policy that works for
+  everyone and a thriving community of creators
+---
+
 # Welcome To Carter Chat
 
-Welcome to Carter Chat! This place is about to get more filled in with guides, tutorials and other fun stuff. But for now, it's pretty bare...
+You've found our docs page. If you're looking for the main site, [click here](https://carter.chat).\
+\
+[Content Guidelines](content-guidelines.md)\
+\
+[Safety Guidelines](safety.md)\
+\
+[Terms of Service](<README (1).md>)\
+\
+[Privacy & Cookies](privacy-and-cookies-policy.md)

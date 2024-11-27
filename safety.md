@@ -1,4 +1,4 @@
-# Safety
+# Safety Guidelines
 
 At Carter Chat, we believe in the power of imagination and creativity. However, it’s important to remember that the AI characters you interact with are not real—they’re fictional personalities designed by other users. While we aim to provide a fun and engaging experience, there are some essential guidelines to keep in mind for your safety and well-being. Carter Chat is designed for adults over the age of 18 years old.
 
