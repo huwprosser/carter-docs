@@ -89,7 +89,7 @@ Carter Labs Ltd 20-22 Wenlock Road, London, N1 7GU, United Kingdom Email: suppor
     * What data is collected by the Licensed Application (e.g., account details, usage data).
     * How the data is used (e.g., to improve services, comply with legal obligations).
     * Data retention and user rights (e.g., the right to request deletion or correction of data).\
-      If You have any questions about how Your data is handled, please contact us at \[Insert Carter Chat Support Email].
+      If You have any questions about how Your data is handled, please contact us at support@carter.chat.
 
 **1**3. TERMINATION\
 The license is valid until terminated by Carter Labs Ltd or by You. Your rights under this license will terminate automatically and without notice if You fail to adhere to any term(s) of this License Agreement. Upon termination:
