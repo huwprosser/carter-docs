@@ -24,14 +24,15 @@ TABLE OF CONTENTS THE APPLICATION SCOPE OF LICENSE TECHNICAL REQUIREMENTS NO MAI
 
 The Licensed Application is not tailored to comply with industry-specific regulations (e.g., UK Data Protection Act 2018, General Data Protection Regulation (GDPR)), so if your interactions are subject to such laws, you may not use this Licensed Application.
 
-2. SCOPE OF LICENSE 2.1 You are given a non-transferable, non-exclusive, non-sublicensable license to install and use the Licensed Application on any Devices that You (End-User) own or control and as permitted by the Usage Rules, with the exception that such Licensed Application may be accessed and used by other accounts associated with You via Family Sharing or volume purchasing.
-   1. 2.2 This license will also govern any updates of the Licensed Application provided by Licensor that replace, repair, and/or supplement the first Licensed Application, unless a separate license is provided for such update, in which case the terms of that new license will govern.
-   2. 2.3 You may not share or make the Licensed Application available to third parties (unless allowed by the Usage Rules and with Carter Labs Ltd's prior written consent), sell, rent, lend, lease, or otherwise redistribute the Licensed Application.
-   3. 2.4 You may not reverse engineer, translate, disassemble, integrate, decompile, remove, modify, combine, create derivative works or updates of, adapt, or attempt to derive the source code of the Licensed Application or any part thereof (except with Carter Labs Ltd's prior written consent).
-   4. 2.5 You may not copy (excluding when expressly authorized by this license and the Usage Rules) or alter the Licensed Application or portions thereof. You may create and store copies only on Devices that You own or control for backup purposes under the terms of this license, the Usage Rules, and any other terms and conditions that apply to the device or software used.
-   5. 2.6 Violations of the obligations mentioned above, as well as the attempt of such infringement, may be subject to prosecution and damages.
-   6. 2.7 Licensor reserves the right to modify the terms and conditions of licensing.
-   7. 2.8 Nothing in this license should be interpreted to restrict third-party terms. When using the Licensed Application, You must ensure compliance with applicable third-party terms and conditions.
+2. SCOPE OF LICENSE&#x20;
+   1. 2.1 You are given a non-transferable, non-exclusive, non-sublicensable license to install and use the Licensed Application on any Devices that You (End-User) own or control and as permitted by the Usage Rules, with the exception that such Licensed Application may be accessed and used by other accounts associated with You via Family Sharing or volume purchasing.
+   2. 2.2 This license will also govern any updates of the Licensed Application provided by Licensor that replace, repair, and/or supplement the first Licensed Application, unless a separate license is provided for such update, in which case the terms of that new license will govern.
+   3. 2.3 You may not share or make the Licensed Application available to third parties (unless allowed by the Usage Rules and with Carter Labs Ltd's prior written consent), sell, rent, lend, lease, or otherwise redistribute the Licensed Application.
+   4. 2.4 You may not reverse engineer, translate, disassemble, integrate, decompile, remove, modify, combine, create derivative works or updates of, adapt, or attempt to derive the source code of the Licensed Application or any part thereof (except with Carter Labs Ltd's prior written consent).
+   5. 2.5 You may not copy (excluding when expressly authorized by this license and the Usage Rules) or alter the Licensed Application or portions thereof. You may create and store copies only on Devices that You own or control for backup purposes under the terms of this license, the Usage Rules, and any other terms and conditions that apply to the device or software used.
+   6. 2.6 Violations of the obligations mentioned above, as well as the attempt of such infringement, may be subject to prosecution and damages.
+   7. 2.7 Licensor reserves the right to modify the terms and conditions of licensing.
+   8. 2.8 Nothing in this license should be interpreted to restrict third-party terms. When using the Licensed Application, You must ensure compliance with applicable third-party terms and conditions.
 3. TECHNICAL REQUIREMENTS 3.1 Licensor attempts to keep the Licensed Application updated so that it complies with modified/new versions of firmware and new hardware. You are not granted rights to claim such an update.
    1. 3.2 You acknowledge that it is Your responsibility to confirm and determine that the end-user device on which You intend to use the Licensed Application satisfies the technical specifications mentioned above.
    2. 3.3 Licensor reserves the right to modify the technical specifications as it sees appropriate at any time.
@@ -69,7 +70,7 @@ You waive all moral rights in your Contributions and warrant that moral rights h
 
 9.2 No warranty is provided for the Licensed Application that is not executable on the device, has been modified without authorization, or has been combined or installed with inappropriate hardware or software.
 
-9.3 In the event of any failure of the Licensed Application to conform to any applicable warranty, You may notify the operator of the Services, and Your purchase price for the Licensed Application will be refunded to You. To the maximum extent permitted by applicable law, the Services will have no other warranty obligation whatsoever with respect to the Licensed Application.
+9.3 In the event of any failure of the Licensed Application to conform to any applicable warranty, You may notify the operator of the Services (e.g., Apple), and Your purchase price for the Licensed Application will be refunded to You through the App Store. To the maximum extent permitted by applicable law, Carter Labs Ltd has no further warranty obligation with respect to the Licensed Application. For additional refund requests or disputes, please follow Apple’s App Store refund policies.
 
 9.4 If the user is a business entity, claims based on faults expire after a statutory limitation period of twelve (12) months from the date the Licensed Application was made available to the user. For consumers, statutory limitation periods apply as per applicable laws.
 
@@ -81,9 +82,22 @@ Product liability claims. Any claim that the Licensed Application fails to confo
 
 12. CONTACT INFORMATION For general inquiries, complaints, questions, or claims concerning the Licensed Application, please contact:
 
-Carter Labs Ltd 20-22 Wenlock Road, London, N1 7GU, United Kingdom Email: \[Insert Carter Chat Support Email]
+Carter Labs Ltd 20-22 Wenlock Road, London, N1 7GU, United Kingdom Email: support@carter.chat
 
-13. TERMINATION The license is valid until terminated by Carter Labs Ltd or by You. Your rights under this license will terminate automatically and without notice if You fail to adhere to any term(s) of this License Agreement. Upon termination of the License, You must stop all use of the Licensed Application and destroy all copies, full or partial, of the Licensed Application.
+13. PRIVACY AND DATA HANDLING\
+    Carter Labs Ltd values Your privacy. By using the Licensed Application, You agree to the collection, use, and storage of Your data in accordance with our Privacy Policy. The Privacy Policy explains:
+    * What data is collected by the Licensed Application (e.g., account details, usage data).
+    * How the data is used (e.g., to improve services, comply with legal obligations).
+    * Data retention and user rights (e.g., the right to request deletion or correction of data).\
+      If You have any questions about how Your data is handled, please contact us at \[Insert Carter Chat Support Email].
+
+**1**3. TERMINATION\
+The license is valid until terminated by Carter Labs Ltd or by You. Your rights under this license will terminate automatically and without notice if You fail to adhere to any term(s) of this License Agreement. Upon termination:
+
+* You must stop all use of the Licensed Application and destroy all copies, full or partial, of the Licensed Application.
+* Carter Labs Ltd reserves the right to delete or retain any user-generated content associated with Your account, as required to comply with legal or operational obligations.\
+  For further clarification regarding data deletion, please refer to our Privacy Policy or contact support.
+
 14. THIRD-PARTY TERMS OF AGREEMENTS AND BENEFICIARY Carter Labs Ltd represents and warrants that it will comply with applicable third-party terms of agreement when using the Licensed Application.
 
 In accordance with Section 9 of the "Instructions for Minimum Terms of Developer's End-User License Agreement," both Apple and Google and their subsidiaries shall be third-party beneficiaries of this End User License Agreement and — upon Your acceptance of the terms and conditions of this License Agreement — both Apple and Google will have the right (and will be deemed to have accepted the right) to enforce this End User License Agreement against You as third-party beneficiaries.
@@ -96,3 +110,8 @@ In accordance with Section 9 of the "Instructions for Minimum Terms of Developer
     3. 17.4 This License Agreement constitutes the entire agreement between You and Carter Labs Ltd concerning the Licensed Application and supersedes all prior agreements, whether written or oral, relating to its subject matter.
 18. NO-TOLERANCE POLICY FOR OBJECTIONABLE CONTENT Carter Labs Ltd enforces a strict no-tolerance policy for objectionable content. Users engaging in the following actions may have their accounts suspended or terminated without notice:
     1. Posting content that is obscene, offensive, or abusive. Promoting violence, discrimination, or harassment. Sharing illegal content or violating applicable laws. Carter Labs Ltd reserves the right to determine, at its sole discretion, what constitutes objectionable content and to take appropriate action.
+    2. **Reporting Mechanisms**\
+       If You encounter objectionable content while using the Licensed Application, You can report it by:
+       * Using the in-app Report feature located in the chat settings or profile menu.
+       * Contacting our support team at support@carter.chat.\
+         Carter Labs Ltd will review all reports promptly and take appropriate action, which may include account suspension or termination.
