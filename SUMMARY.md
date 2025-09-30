@@ -7,3 +7,4 @@
 * [Credits](credits.md)
 * [Delete Your data](delete-your-data.md)
 * [Safety Guidelines](safety.md)
+* [Delete Your Data](delete-your-data-1.md)
